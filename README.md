@@ -1,25 +1,19 @@
+A Mod designed to be used specifically for the GME Modpack, but can be used for other things as well.
 
-Installation information
-=======
+FEATURES
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+Adds new metal and metal alloys such as Red Silvarium, and Guralloy.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+Adds Compressed blocks for cobblestone and other materials.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+Adds a new base material for armors as well
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+New Materials
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+Invar Guralloy Nickel Silver Red Silvarium Padded Leather Base Primitive flint striker Advanced flint striker and plenty more...
+
+Notes
+
+To make full use of my mod, crafttweaker or kubejs is recomended.
+
+This mod came about from me wanting my own mod to do what I needed without worry of infringing on other mod devs or having too much bloat within my mod-pack. Most code was made with help from Kaupenjoe's tutorial videos and BluSunrise allowing public viewing of his code. I appreciate the ability of these devs and love their work. Other credit goes to Team COFH, Brandon3055, TurtyWurty, and of course minecraft and forge.

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "neogmematerials1211:item/raw_bismuth"
+  }
+}
