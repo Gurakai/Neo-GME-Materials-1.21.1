@@ -1,4 +1,8 @@
 {
   "item.neogmematerials1211.bismuth": "Bismuth",
-  "item.neogmematerials1211.raw_bismuth": "Raw Bismuth"
+  "item.neogmematerials1211.raw_bismuth": "Raw Bismuth",
+
+  "block.neogmematerials1211.bismuth_block": "Block of Bismuth",
+  "block.neogmematerials1211.bismuth_ore": "Block of Bismuth Ore"
+
 }
