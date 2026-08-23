@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item":"neogmematerials1211:bismuth_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "neogmematerials1211:bismuth"
+  }
+}

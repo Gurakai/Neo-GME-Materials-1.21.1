@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "neogmematerials1211:raw_nickel"
+  },
+  "result": "neogmematerials1211:ingot_nickel",
+  "experience": 0.8,
+  "cookingtime": 100
+}

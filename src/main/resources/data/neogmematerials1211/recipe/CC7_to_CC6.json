@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "neogmematerials1211:compressed_cobblestone_7"
+    }
+  ],
+  "result": {
+    "item": "neogmematerials1211:compressed_cobblestone_6",
+    "count": 9
+  }
+}

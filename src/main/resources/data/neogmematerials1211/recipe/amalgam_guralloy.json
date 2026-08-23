@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ECD",
+    "BAB",
+    "DCE"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "B": {
+      "tag": "forge:dusts/diamond"
+    },
+    "C": {
+      "tag": "forge:dusts/gold"
+    },
+    "D": {
+      "tag": "forge:dusts/red_silvarium"
+    },
+    "E": {
+      "tag": "forge:dusts/invar"
+    }
+  },
+  "result": {
+    "item": "neogmematerials1211:amalgam_guralloy"
+  }
+}

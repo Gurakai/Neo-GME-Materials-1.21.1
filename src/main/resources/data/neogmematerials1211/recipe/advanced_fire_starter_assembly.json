@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "IFI",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item":"neogmematerials1211:nugget_invar"
+    },
+    "F": {
+      "item":"minecraft:flint_and_steel"
+    }
+  },
+  "result": {
+    "item": "neogmematerials1211:advanced_fire_starter_assembly"
+  }
+}

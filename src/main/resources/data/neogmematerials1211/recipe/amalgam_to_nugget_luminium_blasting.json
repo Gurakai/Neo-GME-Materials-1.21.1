@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "neogmematerials1211:amalgam_luminium"
+  },
+  "result": "neogmematerials1211:nugget_luminium",
+  "experience": 1.0,
+  "cookingtime": 1800
+}

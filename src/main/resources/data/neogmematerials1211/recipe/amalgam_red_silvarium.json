@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/silver"
+    },
+    {
+      "tag": "forge:dusts/silver"
+    },
+    {
+      "tag": "forge:dusts/silver"
+    },
+    {
+      "tag": "forge:dusts/copper"
+    },
+    {
+      "tag": "forge:dusts/copper"
+    },
+    {
+      "tag": "forge:dusts/nickel"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "neogmematerials1211:amalgam_red_silvarium",
+    "count": 4
+  }
+}

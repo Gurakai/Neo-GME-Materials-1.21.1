@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/nickel"
+    },
+    {
+      "tag": "forge:dusts/iron"
+    },
+    {
+      "tag": "forge:dusts/iron"
+    }
+  ],
+  "result": {
+    "item": "neogmematerials1211:amalgam_invar"
+  }
+}

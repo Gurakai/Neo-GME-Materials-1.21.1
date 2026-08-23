@@ -1,6 +1,7 @@
 package net.gurakai.neogmematerials1211;
 
 import net.gurakai.neogmematerials1211.block.ModBlocks;
+import net.gurakai.neogmematerials1211.item.ModCreativeTabs;
 import net.gurakai.neogmematerials1211.item.ModItems;
 import org.slf4j.Logger;
 
@@ -49,6 +50,8 @@ public class NeoGMEMaterials {
         // Note that this is necessary if and only if we want *this* class (ExampleMod) to respond directly to events.
         // Do not add this line if there are no @SubscribeEvent-annotated functions in this class, like onServerStarting() below.
         NeoForge.EVENT_BUS.register(this);
+
+        ModCreativeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);

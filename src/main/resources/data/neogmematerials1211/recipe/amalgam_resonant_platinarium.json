@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DCD",
+    "BAB",
+    "DCD"
+  ],
+  "key": {
+    "A": {
+      "item": "neogmematerials1211:amalgam_guralloy"
+    },
+    "B": {
+      "tag": "forge:dusts/platinum"
+    },
+    "C": {
+      "item": "neogmematerials1211:amalgam_glowvarium"
+    },
+    "D": {
+      "tag": "forge:ender_pearls"
+    }
+  },
+  "result": {
+    "item": "neogmematerials1211:amalgam_resonant_platinarium"
+  }
+}

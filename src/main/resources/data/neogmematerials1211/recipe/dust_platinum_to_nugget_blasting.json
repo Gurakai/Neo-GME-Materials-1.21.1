@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "neogmematerials1211:dust_platinum"
+  },
+  "result": "neogmematerials1211:nugget_platinum",
+  "experience": 0.8,
+  "cookingtime": 500
+}

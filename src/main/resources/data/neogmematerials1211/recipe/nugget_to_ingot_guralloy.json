@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WWW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "neogmematerials1211:nugget_guralloy"
+    }
+  },
+  "result": {
+    "item": "neogmematerials1211:ingot_guralloy"
+  }
+}

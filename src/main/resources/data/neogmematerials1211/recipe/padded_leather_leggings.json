@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "neogmematerials1211:wool_padding"
+    },
+    {
+      "item": "neogmematerials1211:wool_padding"
+    },
+    {
+      "item": "minecraft:leather_leggings"
+    }
+  ],
+  "result": {
+    "item": "neogmematerials1211:leggings_padded_leather"
+  }
+}

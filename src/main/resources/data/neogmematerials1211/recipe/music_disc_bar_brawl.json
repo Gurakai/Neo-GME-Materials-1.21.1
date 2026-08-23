@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "BAB",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:music_discs"
+    },
+    "B": {
+      "item": "neogmematerials1211:nugget_guralloy"
+    }
+  },
+  "result": {
+    "item": "neogmematerials1211:music_disc_bar_brawl"
+  }
+}

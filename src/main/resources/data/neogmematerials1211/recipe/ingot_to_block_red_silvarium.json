@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WWW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "neogmematerials1211:ingot_red_silvarium"
+    }
+  },
+  "result": {
+    "item": "neogmematerials1211:ingot_block_red_silvarium"
+  }
+}

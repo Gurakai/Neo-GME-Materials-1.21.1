@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "neogmematerials1211:amalgam_red_silvarium"
+  },
+  "result": "neogmematerials1211:ingot_red_silvarium",
+  "experience": 0.8,
+  "cookingtime": 100
+}

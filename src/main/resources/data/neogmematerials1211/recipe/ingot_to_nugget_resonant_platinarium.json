@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "neogmematerials1211:ingot_resonant_platinarium"
+    }
+  ],
+  "result": {
+    "item": "neogmematerials1211:nugget_resonant_platinarium",
+    "count": 9
+  }
+}

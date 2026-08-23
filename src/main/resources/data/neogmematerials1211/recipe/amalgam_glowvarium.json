@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BAB",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "neogmematerials1211:amalgam_red_silvarium"
+    },
+    "B": {
+      "tag": "forge:dusts/glowstone"
+    }
+  },
+  "result": {
+    "item": "neogmematerials1211:amalgam_glowvarium"
+  }
+}

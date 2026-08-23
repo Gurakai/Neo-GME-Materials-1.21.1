@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "neogmematerials1211:item/sword_the_rarest"
+  }
+}

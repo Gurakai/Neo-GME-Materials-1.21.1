@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " B ",
+    " b "
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:bone"
+    },
+    "B": {
+      "item": "neogmematerials1211:block_the_rarest_steak"
+    }
+  },
+  "result": {
+    "item": "neogmematerials1211:sword_the_rarest"
+  }
+}

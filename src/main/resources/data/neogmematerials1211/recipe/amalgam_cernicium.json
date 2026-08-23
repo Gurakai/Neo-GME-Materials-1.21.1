@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BDC",
+    "DAD",
+    "CDB"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:dusts/osmium"
+    },
+    "B": {
+      "tag": "forge:dusts/nickel"
+    },
+    "C": {
+      "tag": "forge:dusts/copper"
+    },
+    "D": {
+      "tag": "forge:dusts/sulfur"
+    }
+  },
+  "result": {
+    "item": "neogmematerials1211:amalgam_cernicium"
+  }
+}

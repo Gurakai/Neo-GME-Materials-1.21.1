@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "neogmematerials1211:ingot_block_silver"
+    }
+  ],
+  "result": {
+    "item": "neogmematerials1211:ingot_silver",
+    "count": 9
+  }
+}
