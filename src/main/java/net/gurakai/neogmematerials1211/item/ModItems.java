@@ -25,7 +25,7 @@ public class ModItems {
 
     //food
 
-    public static final DeferredItem<Item> guralloy_apple = addToItems(ITEMS.register("guralloy_apple",
+    public static final DeferredItem<Item> GURALLOY_APPLE = addToItems(ITEMS.register("guralloy_apple",
             () -> new Item(new Item.Properties()
                     .food(new FoodProperties.Builder()
                             .nutrition(5)
@@ -37,8 +37,8 @@ public class ModItems {
 
     //foodblocks
 
-    public static final DeferredItem<BlockItem> block_the_rarest_steak = addToItems(ITEMS.register("block_the_rarest_steak",
-            () -> new BlockItem(ModBlocks.block_the_rarest_steak.get(),
+    public static final DeferredItem<BlockItem> BLOCK_THE_RAREST_STEAK = addToItems(ITEMS.register("block_the_rarest_steak",
+            () -> new BlockItem(ModBlocks.BLOCK_THE_RAREST_STEAK.get(),
                     new Item.Properties()
                             .rarity(Rarity.RARE)
                             .food(new FoodProperties.Builder()
@@ -51,188 +51,188 @@ public class ModItems {
 
     //ingots
 
-    public static final DeferredItem<Item> ingot_guralloy = addToItems(ITEMS.register("ingot_guralloy",
+    public static final DeferredItem<Item> INGOT_GURALLOY = addToItems(ITEMS.register("ingot_guralloy",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> ingot_invar = addToItems(ITEMS.register("ingot_invar",
+    public static final DeferredItem<Item> INGOT_INVAR = addToItems(ITEMS.register("ingot_invar",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.UNCOMMON)
             )));
 
-    public static final DeferredItem<Item> ingot_nickel = addToItems(ITEMS.register("ingot_nickel",
+    public static final DeferredItem<Item> INGOT_NICKEL = addToItems(ITEMS.register("ingot_nickel",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.COMMON)
             )));
 
-    public static final DeferredItem<Item> ingot_red_silvarium = addToItems(ITEMS.register("ingot_red_silvarium",
+    public static final DeferredItem<Item> INGOT_RED_SILVARIUM = addToItems(ITEMS.register("ingot_red_silvarium",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.UNCOMMON)
             )));
 
-    public static final DeferredItem<Item> ingot_silver = addToItems(ITEMS.register("ingot_silver",
+    public static final DeferredItem<Item> INGOT_SILVER = addToItems(ITEMS.register("ingot_silver",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.COMMON)
             )));
 
-    public static final DeferredItem<Item> ingot_platinum = addToItems(ITEMS.register("ingot_platinum",
+    public static final DeferredItem<Item> INGOT_PLATINUM = addToItems(ITEMS.register("ingot_platinum",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> ingot_luminium = addToItems(ITEMS.register("ingot_luminium",
+    public static final DeferredItem<Item> INGOT_LUMINIUM = addToItems(ITEMS.register("ingot_luminium",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.EPIC)
             )));
 
-    public static final DeferredItem<Item> ingot_resonant_platinarium = addToItems(ITEMS.register("ingot_resonant_platinarium",
+    public static final DeferredItem<Item> INGOT_RESONANT_PLATINARIUM = addToItems(ITEMS.register("ingot_resonant_platinarium",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.EPIC)
             )));
 
     //raw ore
 
-    public static final  DeferredItem<Item> raw_nickel = addToItems(ITEMS.register("raw_nickel",
+    public static final  DeferredItem<Item> RAW_NICKEL = addToItems(ITEMS.register("raw_nickel",
             () -> new Item(new Item.Properties()
             )));
 
-    public static final  DeferredItem<Item> raw_silver = addToItems(ITEMS.register("raw_silver",
+    public static final  DeferredItem<Item> RAW_SILVER = addToItems(ITEMS.register("raw_silver",
             () -> new Item(new Item.Properties()
             )));
 
     //nuggets
 
-    public static final DeferredItem<Item> nugget_guralloy = addToItems(ITEMS.register("nugget_guralloy",
+    public static final DeferredItem<Item> NUGGET_GURALLOY = addToItems(ITEMS.register("nugget_guralloy",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> nugget_invar = addToItems(ITEMS.register("nugget_invar",
+    public static final DeferredItem<Item> NUGGET_INVAR = addToItems(ITEMS.register("nugget_invar",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.UNCOMMON)
             )));
 
-    public static final DeferredItem<Item> nugget_nickel = addToItems(ITEMS.register("nugget_nickel",
+    public static final DeferredItem<Item> NUGGET_NICKEL = addToItems(ITEMS.register("nugget_nickel",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.COMMON)
             )));
 
-    public static final DeferredItem<Item> nugget_red_silvarium = addToItems(ITEMS.register("nugget_red_silvarium",
+    public static final DeferredItem<Item> NUGGET_RED_SILVARIUM = addToItems(ITEMS.register("nugget_red_silvarium",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.UNCOMMON)
             )));
 
-    public static final DeferredItem<Item> nugget_silver = addToItems(ITEMS.register("nugget_silver",
+    public static final DeferredItem<Item> NUGGET_SILVER = addToItems(ITEMS.register("nugget_silver",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.COMMON)
             )));
 
-    public static final DeferredItem<Item> nugget_platinum = addToItems(ITEMS.register("nugget_platinum",
+    public static final DeferredItem<Item> NUGGET_PLATINUM = addToItems(ITEMS.register("nugget_platinum",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> nugget_luminium = addToItems(ITEMS.register("nugget_luminium",
+    public static final DeferredItem<Item> NUGGET_LUMINIUM = addToItems(ITEMS.register("nugget_luminium",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.EPIC)
             )));
 
-    public static final DeferredItem<Item> nugget_resonant_platinarium = addToItems(ITEMS.register("nugget_resonant_platinarium",
+    public static final DeferredItem<Item> NUGGET_RESONANT_PLATINARIUM = addToItems(ITEMS.register("nugget_resonant_platinarium",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.EPIC)
             )));
 
     //ingot blocks
 
-    public static final DeferredItem<Item> ingot_block_guralloy = addToItems(ITEMS.register("ingot_block_guralloy",
-            () -> new BlockItem(BlockInitialization.ingot_block_guralloy.get(),
+    public static final DeferredItem<Item> INGOT_BLOCK_GURALLOY = addToItems(ITEMS.register("ingot_block_guralloy",
+            () -> new BlockItem(ModBlocks.INGOT_BLOCK_GURALLOY.get(),
                     new Item.Properties()
                             .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> ingot_block_invar = addToItems(ITEMS.register("ingot_block_invar",
-            () -> new BlockItem(BlockInitialization.ingot_block_invar.get(),
+    public static final DeferredItem<Item> INGOT_BLOCK_INVAR = addToItems(ITEMS.register("ingot_block_invar",
+            () -> new BlockItem(ModBlocks.INGOT_BLOCK_INVAR.get(),
                     new Item.Properties()
                             .rarity(Rarity.UNCOMMON)
             )));
 
-    public static final DeferredItem<Item> ingot_block_nickel = addToItems(ITEMS.register("ingot_block_nickel",
-            () -> new BlockItem(BlockInitialization.ingot_block_nickel.get(),
-                    new Item.Properties()
-                            .rarity(Rarity.COMMON)
-            )));
+//    public static final DeferredItem<Item> INGOT_BLOCK_NICKEL = addToItems(ITEMS.register("ingot_block_nickel",
+//            () -> new BlockItem(ModBlocks.ingot_block_nickel.get(),
+//                    new Item.Properties()
+//                            .rarity(Rarity.COMMON)
+//            )));
 
-    public static final DeferredItem<Item> ingot_block_red_silvarium = addToItems(ITEMS.register("ingot_block_red_silvarium",
-            () -> new BlockItem(BlockInitialization.ingot_block_red_silvarium.get(),
+    public static final DeferredItem<Item> INGOT_BLOCK_RED_SILVARIUM = addToItems(ITEMS.register("ingot_block_red_silvarium",
+            () -> new BlockItem(ModBlocks.INGOT_BLOCK_RED_SILVARIUM.get(),
                     new Item.Properties()
                             .rarity(Rarity.UNCOMMON)
             )));
-    public static final DeferredItem<Item> ingot_block_silver = addToItems(ITEMS.register("ingot_block_silver",
-            () -> new BlockItem(BlockInitialization.ingot_block_silver.get(),
-                    new Item.Properties()
-                            .rarity(Rarity.COMMON)
-            )));
+//    public static final DeferredItem<Item> INGOT_BLOCK_SILVER = addToItems(ITEMS.register("ingot_block_silver",
+//            () -> new BlockItem(ModBlocks.ingot_block_silver.get(),
+//                    new Item.Properties()
+//                            .rarity(Rarity.COMMON)
+//            )));
 
-    public static final DeferredItem<Item> ingot_block_platinum = addToItems(ITEMS.register("ingot_block_platinum",
-            () -> new BlockItem(BlockInitialization.ingot_block_platinum.get(),
+    public static final DeferredItem<Item> INGOT_BLOCK_PLATINUM = addToItems(ITEMS.register("ingot_block_platinum",
+            () -> new BlockItem(ModBlocks.INGOT_BLOCK_PLATINUM.get(),
                     new Item.Properties()
                             .rarity(Rarity.RARE)
             )));
 
     //powders - blends - amalgams
 
-    public static final DeferredItem<Item> amalgam_guralloy = addToItems(ITEMS.register("amalgam_guralloy",
+    public static final DeferredItem<Item> AMALGAM_GURALLOY = addToItems(ITEMS.register("amalgam_guralloy",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> amalgam_invar = addToItems(ITEMS.register("amalgam_invar",
+    public static final DeferredItem<Item> AMALGAM_INVAR = addToItems(ITEMS.register("amalgam_invar",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.UNCOMMON)
             )));
 
-    public static final DeferredItem<Item> pulverized_nickel = addToItems(ITEMS.register("pulverized_nickel",
+    public static final DeferredItem<Item> PULVERIZED_NICKEL = addToItems(ITEMS.register("pulverized_nickel",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.COMMON)
             )));
 
-    public static final DeferredItem<Item> amalgam_cernicium = addToItems(ITEMS.register("amalgam_cernicium",
+    public static final DeferredItem<Item> AMALGAM_CERNICIUM = addToItems(ITEMS.register("amalgam_cernicium",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.UNCOMMON)
             )));
 
-    public static final DeferredItem<Item> amalgam_red_silvarium = addToItems(ITEMS.register("amalgam_red_silvarium",
+    public static final DeferredItem<Item> AMALGAM_RED_SILVARIUM = addToItems(ITEMS.register("amalgam_red_silvarium",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.UNCOMMON)
             )));
 
-    public static final DeferredItem<Item> pulverized_silver = addToItems(ITEMS.register("pulverized_silver",
+    public static final DeferredItem<Item> PULVERIZED_SILVER = addToItems(ITEMS.register("pulverized_silver",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.COMMON)
             )));
 
-    public static final DeferredItem<Item> platinum_hydrodisulfide = addToItems(ITEMS.register("platinum_hydrodisulfide",
+    public static final DeferredItem<Item> PLATINUM_HYDRODISULFIDE = addToItems(ITEMS.register("platinum_hydrodisulfide",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> dust_platinum = addToItems(ITEMS.register("dust_platinum",
+    public static final DeferredItem<Item> DUST_PLATINUM = addToItems(ITEMS.register("dust_platinum",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> amalgam_luminium = addToItems(ITEMS.register("amalgam_luminium",
+    public static final DeferredItem<Item> AMALGAM_LUMINIUM = addToItems(ITEMS.register("amalgam_luminium",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.EPIC)
             )));
 
-    public static final DeferredItem<Item> amalgam_resonant_platinarium = addToItems(ITEMS.register("amalgam_resonant_platinarium",
+    public static final DeferredItem<Item> AMALGAM_RESONANT_PLATINARIUM = addToItems(ITEMS.register("amalgam_resonant_platinarium",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.EPIC)
             )));
 
-    public static final DeferredItem<Item> amalgam_glowvarium = addToItems(ITEMS.register("amalgam_glowvarium",
+    public static final DeferredItem<Item> AMALGAM_GLOWVARIUM = addToItems(ITEMS.register("amalgam_glowvarium",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));

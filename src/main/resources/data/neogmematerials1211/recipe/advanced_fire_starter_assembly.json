@@ -13,7 +13,7 @@
       "item":"minecraft:flint_and_steel"
     }
   },
-  "result": {
-    "item": "neogmematerials1211:advanced_fire_starter_assembly"
+
+    "id": "neogmematerials1211:advanced_fire_starter_assembly"
   }
 }

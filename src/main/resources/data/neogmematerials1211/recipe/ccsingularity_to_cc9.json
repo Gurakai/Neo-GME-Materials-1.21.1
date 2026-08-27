@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item":"neogmematerials1211:compressed_cobblestone_singularity"
+    }
+  ],
+  "result": {
+    "id": "neogmematerials1211:compressed_cobblestone_9",
+    "count": 9
+  }
+}

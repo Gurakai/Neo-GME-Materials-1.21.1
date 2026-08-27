@@ -22,7 +22,7 @@
       "item": "minecraft:blue_concrete"
     }
   },
-  "result": {
-    "item": "neogmematerials1211:lighter"
+
+    "id": "neogmematerials1211:lighter"
   }
 }

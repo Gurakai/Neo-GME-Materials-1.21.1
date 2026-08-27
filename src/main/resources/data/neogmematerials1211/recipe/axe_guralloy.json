@@ -1,15 +1,16 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "neogmematerials1211:guralloy_template"
+  "addition": {
+    "item": "neogmematerials1211:ingot_guralloy"
   },
   "base": {
     "item": "minecraft:netherite_axe"
   },
-  "addition": {
-    "item": "neogmematerials1211:ingot_guralloy"
+
+    "count": 1,
+    "id": "neogmematerials1211:axe_guralloy"
   },
-  "result": {
-    "item": "neogmematerials1211:axe_guralloy"
+  "template": {
+    "item": "neogmematerials1211:guralloy_template"
   }
 }
