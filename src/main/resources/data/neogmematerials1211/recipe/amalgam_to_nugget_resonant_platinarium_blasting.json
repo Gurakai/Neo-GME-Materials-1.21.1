@@ -1,9 +1,12 @@
 {
   "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 1600,
+  "experience": 0.4,
   "ingredient": {
     "item": "neogmematerials1211:amalgam_resonant_platinarium"
   },
-  "result": "neogmematerials1211:nugget_resonant_platinarium",
-  "experience": 1.0,
-  "cookingtime": 2400
+  "result": {
+    "id": "neogmematerials1211:nugget_resonant_platinarium"
+  }
 }

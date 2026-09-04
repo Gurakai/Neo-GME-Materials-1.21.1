@@ -1,9 +1,12 @@
 {
   "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
   "ingredient": {
     "item": "neogmematerials1211:pulverized_nickel"
   },
-  "result": "neogmematerials1211:ingot_nickel",
-  "experience": 0.8,
-  "cookingtime": 100
+  "result": {
+    "id": "neogmematerials1211:ingot_nickel"
+  }
 }

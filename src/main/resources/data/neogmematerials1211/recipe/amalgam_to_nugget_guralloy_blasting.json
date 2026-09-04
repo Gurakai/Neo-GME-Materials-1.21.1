@@ -1,9 +1,12 @@
 {
   "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
   "ingredient": {
     "item": "neogmematerials1211:amalgam_guralloy"
   },
-  "result": "neogmematerials1211:nugget_guralloy",
-  "experience": 1.0,
-  "cookingtime": 600
+  "result": {
+    "id": "neogmematerials1211:nugget_guralloy"
+  }
 }

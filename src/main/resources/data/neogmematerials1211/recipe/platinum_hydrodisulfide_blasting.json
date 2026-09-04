@@ -1,9 +1,12 @@
 {
   "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 800,
+  "experience": 0.2,
   "ingredient": {
     "item": "neogmematerials1211:platinum_hydrodisulfide"
   },
-  "result": "neogmematerials1211:dust_platinum",
-  "experience": 1.5,
-  "cookingtime": 1000
+  "result": {
+    "id": "neogmematerials1211:dust_platinum"
+  }
 }

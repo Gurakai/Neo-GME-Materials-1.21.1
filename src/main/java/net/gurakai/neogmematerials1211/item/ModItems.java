@@ -17,10 +17,6 @@ import static net.gurakai.neogmematerials1211.item.ModCreativeTabs.addToItems;
 public class ModItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(NeoGMEMaterials.MOD_ID);
 
-    public static final DeferredItem<Item> BISMUTH = addToItems(ITEMS.register("bismuth",
-            () -> new Item(new Item.Properties()
-                    .rarity(Rarity.UNCOMMON)
-            )));
 
 
     //food
@@ -49,12 +45,25 @@ public class ModItems {
                                     .build())
             )));
 
-    //ingots
+    //bismuth
 
-    public static final DeferredItem<Item> INGOT_GURALLOY = addToItems(ITEMS.register("ingot_guralloy",
+    public static final DeferredItem<Item> BISMUTH = addToItems(ITEMS.register("bismuth",
+            () -> new Item(new Item.Properties()
+                    .rarity(Rarity.UNCOMMON)
+            )));
+
+    public static final DeferredItem<Item> BISMUTH_RAW = addToItems(ITEMS.register("bismuth_raw",
+            () -> new Item(new Item.Properties())));
+
+    //guralloy
+
+    public static final DeferredItem<Item> GURALLOY_INGOT = addToItems(ITEMS.register("ingot_guralloy",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));
+
+    //ingots
+
 
     public static final DeferredItem<Item> INGOT_INVAR = addToItems(ITEMS.register("ingot_invar",
             () -> new Item(new Item.Properties()
@@ -238,9 +247,6 @@ public class ModItems {
             )));
 
 
-
-    public static final DeferredItem<Item> RAW_BISMUTH = addToItems(ITEMS.register("raw_bismuth",
-            () -> new Item(new Item.Properties())));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

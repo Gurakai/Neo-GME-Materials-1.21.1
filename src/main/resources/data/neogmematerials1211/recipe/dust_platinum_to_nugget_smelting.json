@@ -1,9 +1,12 @@
 {
   "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 0.4,
   "ingredient": {
     "item": "neogmematerials1211:dust_platinum"
   },
-  "result": "neogmematerials1211:nugget_platinum",
-  "experience": 0.7,
-  "cookingtime": 1000
+  "result": {
+    "id": "neogmematerials1211:nugget_platinum"
+  }
 }

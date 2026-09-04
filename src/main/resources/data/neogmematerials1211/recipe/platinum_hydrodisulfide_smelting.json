@@ -1,9 +1,12 @@
 {
   "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 1600,
+  "experience": 0.2,
   "ingredient": {
     "item": "neogmematerials1211:amalgam_cernicium"
   },
-  "result": "neogmematerials1211:platinum_hydrodisulfide",
-  "experience": 1.0,
-  "cookingtime": 1600
+  "result": {
+    "id": "neogmematerials1211:platinum_hydrodisulfide"
+  }
 }

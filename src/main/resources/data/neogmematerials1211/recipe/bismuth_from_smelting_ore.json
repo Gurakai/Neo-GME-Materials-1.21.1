@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "ingredient": {
+    "item": "neogmematerials1211:bismuth_ore"
+  },
+  "result": {
+    "id": "neogmematerials1211:bismuth"
+  }
+}

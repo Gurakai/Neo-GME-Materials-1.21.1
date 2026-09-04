@@ -1,9 +1,12 @@
 {
   "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
   "ingredient": {
     "item": "neogmematerials1211:ore_silver"
   },
-  "result": "neogmematerials1211:ingot_silver",
-  "experience": 0.7,
-  "cookingtime": 200
+  "result": {
+    "id": "neogmematerials1211:ingot_silver"
+  }
 }
