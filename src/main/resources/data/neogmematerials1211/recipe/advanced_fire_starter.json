@@ -7,13 +7,13 @@
   ],
   "key": {
     "A": {
-      "tag": "forge:wool"
+      "tag": "c:wool"
     },
     "B": {
       "item": "minecraft:blue_concrete"
     },
     "C": {
-      "tag": "forge:string"
+      "tag": "c:string"
     },
     "D": {
       "item": "neogmematerials1211:advanced_fire_starter_assembly"

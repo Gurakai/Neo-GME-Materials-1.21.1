@@ -7,10 +7,10 @@
   ],
   "key": {
     "W": {
-      "item": "neogmematerials1211:ingot_invar"
+      "item": "neogmematerials1211:invar_nugget"
     }
   },
   "result": {
-    "id": "neogmematerials1211:ingot_block_invar"
+    "id": "neogmematerials1211:invar_ingot"
   }
 }

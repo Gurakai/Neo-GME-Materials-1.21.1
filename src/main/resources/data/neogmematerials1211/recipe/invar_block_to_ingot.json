@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "neogmematerials1211:ingot_block_invar"
+      "item": "neogmematerials1211:invar_ingot_block"
     }
   ],
   "result": {
-    "id": "neogmematerials1211:ingot_invar",
+    "id": "neogmematerials1211:invar_ingot",
     "count": 9
   }
 }

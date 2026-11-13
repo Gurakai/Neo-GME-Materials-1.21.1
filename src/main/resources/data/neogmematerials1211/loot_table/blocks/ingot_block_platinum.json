@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "neogmematerials1211:ingot_block_platinum",
+          "conditions": [
+            {
+              "condition": "minecraft:survives_explosion"
+            }
+          ],
+          "functions": []
+        }
+      ]
+    }
+  ],
+  "functions": [],
+  "random_sequence": "neogmematerials1211:block/ingot_block_platinum"
+}

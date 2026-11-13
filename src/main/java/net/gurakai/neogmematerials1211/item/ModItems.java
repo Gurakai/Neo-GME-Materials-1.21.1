@@ -45,7 +45,7 @@ public class ModItems {
                                     .build())
             )));
 
-    //bismuth
+    //BISMUTH
 
     public static final DeferredItem<Item> BISMUTH = addToItems(ITEMS.register("bismuth",
             () -> new Item(new Item.Properties()
@@ -65,10 +65,6 @@ public class ModItems {
     //ingots
 
 
-    public static final DeferredItem<Item> INGOT_INVAR = addToItems(ITEMS.register("ingot_invar",
-            () -> new Item(new Item.Properties()
-                    .rarity(Rarity.UNCOMMON)
-            )));
 
     public static final DeferredItem<Item> INGOT_NICKEL = addToItems(ITEMS.register("ingot_nickel",
             () -> new Item(new Item.Properties()
@@ -110,6 +106,29 @@ public class ModItems {
             () -> new Item(new Item.Properties()
             )));
 
+    //INVAR
+
+    public static final DeferredItem<Item> INVAR_INGOT = addToItems(ITEMS.register("invar_ingot",
+            () -> new Item(new Item.Properties()
+                    .rarity(Rarity.UNCOMMON)
+            )));
+
+    public static final DeferredItem<Item> INVAR_NUGGET = addToItems(ITEMS.register("invar_nugget",
+            () -> new Item(new Item.Properties()
+                    .rarity(Rarity.UNCOMMON)
+            )));
+
+//    public static final DeferredItem<Item> INVAR_INGOT_BLOCK = addToItems(ITEMS.register("invar_ingot_block",
+//            () -> new BlockItem(ModBlocks.INVAR_INGOT_BLOCK.get(),
+//                    new Item.Properties()
+//                            .rarity(Rarity.UNCOMMON)
+//            )));
+
+    public static final DeferredItem<Item> INVAR_AMALGAM = addToItems(ITEMS.register("invar_amalgam",
+            () -> new Item(new Item.Properties()
+                    .rarity(Rarity.UNCOMMON)
+            )));
+
     //nuggets
 
     public static final DeferredItem<Item> NUGGET_GURALLOY = addToItems(ITEMS.register("nugget_guralloy",
@@ -117,10 +136,6 @@ public class ModItems {
                     .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> NUGGET_INVAR = addToItems(ITEMS.register("nugget_invar",
-            () -> new Item(new Item.Properties()
-                    .rarity(Rarity.UNCOMMON)
-            )));
 
     public static final DeferredItem<Item> NUGGET_NICKEL = addToItems(ITEMS.register("nugget_nickel",
             () -> new Item(new Item.Properties()
@@ -154,40 +169,35 @@ public class ModItems {
 
     //ingot blocks
 
-    public static final DeferredItem<Item> INGOT_BLOCK_GURALLOY = addToItems(ITEMS.register("ingot_block_guralloy",
-            () -> new BlockItem(ModBlocks.INGOT_BLOCK_GURALLOY.get(),
-                    new Item.Properties()
-                            .rarity(Rarity.RARE)
-            )));
-
-    public static final DeferredItem<Item> INGOT_BLOCK_INVAR = addToItems(ITEMS.register("ingot_block_invar",
-            () -> new BlockItem(ModBlocks.INGOT_BLOCK_INVAR.get(),
-                    new Item.Properties()
-                            .rarity(Rarity.UNCOMMON)
-            )));
-
-//    public static final DeferredItem<Item> INGOT_BLOCK_NICKEL = addToItems(ITEMS.register("ingot_block_nickel",
-//            () -> new BlockItem(ModBlocks.ingot_block_nickel.get(),
+//    public static final DeferredItem<Item> INGOT_BLOCK_GURALLOY = addToItems(ITEMS.register("ingot_block_guralloy",
+//            () -> new BlockItem(ModBlocks.INGOT_BLOCK_GURALLOY.get(),
 //                    new Item.Properties()
-//                            .rarity(Rarity.COMMON)
+//                            .rarity(Rarity.RARE)
 //            )));
-
-    public static final DeferredItem<Item> INGOT_BLOCK_RED_SILVARIUM = addToItems(ITEMS.register("ingot_block_red_silvarium",
-            () -> new BlockItem(ModBlocks.INGOT_BLOCK_RED_SILVARIUM.get(),
-                    new Item.Properties()
-                            .rarity(Rarity.UNCOMMON)
-            )));
-//    public static final DeferredItem<Item> INGOT_BLOCK_SILVER = addToItems(ITEMS.register("ingot_block_silver",
-//            () -> new BlockItem(ModBlocks.ingot_block_silver.get(),
+//
+////    public static final DeferredItem<Item> INGOT_BLOCK_NICKEL = addToItems(ITEMS.register("ingot_block_nickel",
+////            () -> new BlockItem(ModBlocks.INGOT_BLOCK_NICKEL.get(),
+////                    new Item.Properties()
+////                            .rarity(Rarity.COMMON)
+////            )));
+//
+//    public static final DeferredItem<Item> INGOT_BLOCK_RED_SILVARIUM = addToItems(ITEMS.register("ingot_block_red_silvarium",
+//            () -> new BlockItem(ModBlocks.INGOT_BLOCK_RED_SILVARIUM.get(),
 //                    new Item.Properties()
-//                            .rarity(Rarity.COMMON)
+//                            .rarity(Rarity.UNCOMMON)
 //            )));
-
-    public static final DeferredItem<Item> INGOT_BLOCK_PLATINUM = addToItems(ITEMS.register("ingot_block_platinum",
-            () -> new BlockItem(ModBlocks.INGOT_BLOCK_PLATINUM.get(),
-                    new Item.Properties()
-                            .rarity(Rarity.RARE)
-            )));
+//
+////    public static final DeferredItem<Item> INGOT_BLOCK_SILVER = addToItems(ITEMS.register("ingot_block_silver",
+////            () -> new BlockItem(ModBlocks.INGOT_BLOCK_SILVER.get(),
+////                    new Item.Properties()
+////                            .rarity(Rarity.COMMON)
+////            )));
+//
+//    public static final DeferredItem<Item> INGOT_BLOCK_PLATINUM = addToItems(ITEMS.register("ingot_block_platinum",
+//            () -> new BlockItem(ModBlocks.INGOT_BLOCK_PLATINUM.get(),
+//                    new Item.Properties()
+//                            .rarity(Rarity.RARE)
+//            )));
 
     //powders - blends - amalgams
 
@@ -196,10 +206,6 @@ public class ModItems {
                     .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> AMALGAM_INVAR = addToItems(ITEMS.register("amalgam_invar",
-            () -> new Item(new Item.Properties()
-                    .rarity(Rarity.UNCOMMON)
-            )));
 
     public static final DeferredItem<Item> PULVERIZED_NICKEL = addToItems(ITEMS.register("pulverized_nickel",
             () -> new Item(new Item.Properties()

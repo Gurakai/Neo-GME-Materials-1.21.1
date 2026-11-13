@@ -4,9 +4,9 @@
   "cookingtime": 100,
   "experience": 0.2,
   "ingredient": {
-    "item": "neogmematerials1211:amalgam_invar"
+    "item": "neogmematerials1211:bismuth_deepslate_ore"
   },
   "result": {
-    "id": "neogmematerials1211:ingot_invar"
+    "id": "neogmematerials1211:bismuth"
   }
 }

@@ -38,7 +38,15 @@ public static final DeferredBlock<Block> BISMUTH_ORE = addToBlocks(registerBlock
                         .sound(SoundType.STONE)
         )));
 
-    public static final DeferredBlock<Block> INGOT_BLOCK_GURALLOY = addToBlocks(BLOCKS.register("ingot_block_guralloy",
+public static final DeferredBlock<Block> BISMUTH_DEEPSLATE_ORE = addToBlocks(registerBlock("bismuth_deepslate_ore",
+        () -> new DropExperienceBlock(UniformInt.of(4,6),
+                BlockBehaviour.Properties.of()
+                        .strength(4f)
+                        .requiresCorrectToolForDrops()
+                        .sound(SoundType.DEEPSLATE)
+        )));
+
+    public static final DeferredBlock<Block> INGOT_BLOCK_GURALLOY = addToBlocks(registerBlock("ingot_block_guralloy",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.NETHERITE_BLOCK)
                     .mapColor(MapColor.COLOR_YELLOW)
                     .strength(75f, 1500f)
@@ -48,7 +56,7 @@ public static final DeferredBlock<Block> BISMUTH_ORE = addToBlocks(registerBlock
                     .pushReaction(PushReaction.NORMAL)
             )));
 
-    public static final DeferredBlock<Block> INGOT_BLOCK_INVAR = addToBlocks(BLOCKS.register("ingot_block_invar",
+    public static final DeferredBlock<Block> INVAR_INGOT_BLOCK = addToBlocks(registerBlock("invar_ingot_block",
             () -> new Block(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.COLOR_GRAY)
                     .strength(5f, 13f)
@@ -66,7 +74,7 @@ public static final DeferredBlock<Block> BISMUTH_ORE = addToBlocks(registerBlock
                     .pushReaction(PushReaction.NORMAL)
             )));
 
-    public static final DeferredBlock<Block> INGOT_BLOCK_RED_SILVARIUM = addToBlocks(BLOCKS.register("ingot_block_red_silvarium",
+    public static final DeferredBlock<Block> INGOT_BLOCK_RED_SILVARIUM = addToBlocks(registerBlock("ingot_block_red_silvarium",
             () -> new Block(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.COLOR_RED)
                     .strength(6f, 13f)
@@ -92,7 +100,7 @@ public static final DeferredBlock<Block> BISMUTH_ORE = addToBlocks(registerBlock
                     .pushReaction(PushReaction.DESTROY)
             )));
 
-    public static final DeferredBlock<Block> INGOT_BLOCK_PLATINUM = addToBlocks(BLOCKS.register("ingot_block_platinum",
+    public static final DeferredBlock<Block> INGOT_BLOCK_PLATINUM = addToBlocks(registerBlock("ingot_block_platinum",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(INGOT_BLOCK_RED_SILVARIUM.get())
                     .mapColor(MapColor.COLOR_CYAN)
                     .requiresCorrectToolForDrops()
@@ -126,6 +134,8 @@ public static final DeferredBlock<Block> BISMUTH_ORE = addToBlocks(registerBlock
             )));
 
 //compressed blocks
+
+    //Cobblestone
 
     public static final DeferredBlock<Block> COMPRESSED_COBBLESTONE_SINGULARITY = addToBlocks(registerBlock("compressed_cobblestone_singularity",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(INGOT_BLOCK_GURALLOY.get())
