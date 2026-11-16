@@ -4,9 +4,9 @@
   "cookingtime": 200,
   "experience": 0.2,
   "ingredient": {
-    "item": "neogmematerials1211:amalgam_guralloy"
+    "item": "neogmematerials1211:guralloy_amalgam"
   },
   "result": {
-    "id": "neogmematerials1211:nugget_guralloy"
+    "id": "neogmematerials1211:guralloy_nugget"
   }
 }
