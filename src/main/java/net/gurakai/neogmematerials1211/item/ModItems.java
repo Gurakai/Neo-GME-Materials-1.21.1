@@ -95,17 +95,17 @@ public class ModItems {
 
     //Nickel
 
-    public static final DeferredItem<Item> INGOT_NICKEL = addToItems(ITEMS.register("ingot_nickel",
+    public static final DeferredItem<Item> NICKEL_INGOT = addToItems(ITEMS.register("nickel_ingot",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.COMMON)
             )));
 
-    public static final DeferredItem<Item> NUGGET_NICKEL = addToItems(ITEMS.register("nugget_nickel",
+    public static final DeferredItem<Item> NICKEL_NUGGET = addToItems(ITEMS.register("nickel_nugget",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.COMMON)
             )));
 
-    public static final DeferredItem<Item> PULVERIZED_NICKEL = addToItems(ITEMS.register("pulverized_nickel",
+    public static final DeferredItem<Item> NICKEL_PULVERIZED = addToItems(ITEMS.register("nickel_pulverized",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.COMMON)
             )));

@@ -4,9 +4,9 @@
   "cookingtime": 100,
   "experience": 0.2,
   "ingredient": {
-    "item": "neogmematerials1211:pulverized_nickel"
+    "item": "neogmematerials1211:nickel_pulverized"
   },
   "result": {
-    "id": "neogmematerials1211:ingot_nickel"
+    "id": "neogmematerials1211:nickel_ingot"
   }
 }

@@ -7,10 +7,10 @@
   ],
   "key": {
     "W": {
-      "item": "neogmematerials1211:nugget_nickel"
+      "item": "neogmematerials1211:nickel_nugget"
     }
   },
   "result": {
-    "id": "neogmematerials1211:ingot_nickel"
+    "id": "neogmematerials1211:nickel_ingot"
   }
 }

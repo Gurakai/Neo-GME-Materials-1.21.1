@@ -4,9 +4,9 @@
   "cookingtime": 200,
   "experience": 0.2,
   "ingredient": {
-    "item": "neogmematerials1211:ore_nickel"
+    "item": "neogmematerials1211:ore_deepslate_nickel"
   },
   "result": {
-    "id": "neogmematerials1211:ingot_nickel"
+    "id": "neogmematerials1211:nickel_ingot"
   }
 }
