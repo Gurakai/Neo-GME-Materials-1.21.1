@@ -46,14 +46,14 @@
   "item.neogmematerials1211.amalgam_resonant_platinarium": "Amalgam of Resonant Platinarium",
   "item.neogmematerials1211.amalgam_glowvarium": "Amalgam of Glowvarium",
 
-  "block.neogmematerials1211.ingot_block_guralloy": "Block of Guralloy",
-  "block.neogmematerials1211.ingot_block_nickel": "Block of Nickel",
+  "block.neogmematerials1211.guralloy_ingot_block": "Block of Guralloy",
+  "block.neogmematerials1211.nickel_ingot_block": "Block of Nickel",
   "block.neogmematerials1211.ingot_block_red_silvarium": "Block of Red Silvarium",
   "block.neogmematerials1211.ingot_block_silver": "Block of silver",
   "block.neogmematerials1211.block_the_rarest_steak": "The Rarest Steak Block",
   "block.neogmematerials1211.ingot_block_platinum": "Block of Platinum",
-  "block.neogmematerials1211.ore_nickel": "Nickel Ore",
-  "block.neogmematerials1211.ore_deepslate_nickel": "Deepslate Nickel Ore",
+  "block.neogmematerials1211.nickel_ore": "Nickel Ore",
+  "block.neogmematerials1211.nickel_deepslate_ore": "Deepslate Nickel Ore",
   "block.neogmematerials1211.ore_silver": "Silver Ore",
   "block.neogmematerials1211.ore_deepslate_silver": "Deepslate Silver Ore",
 

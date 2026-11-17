@@ -7,7 +7,7 @@
     "item": "minecraft:netherite_boots"
   },
   "addition": {
-    "item": "neogmematerials1211:ingot_block_guralloy"
+    "item": "neogmematerials1211:guralloy_ingot_block"
   },
   "result": {
     "id": "neogmematerials1211:boots_guralloy"

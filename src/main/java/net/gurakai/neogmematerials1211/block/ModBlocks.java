@@ -23,30 +23,10 @@ public class ModBlocks {
     public static final DeferredRegister.Blocks BLOCKS =
             DeferredRegister.createBlocks(NeoGMEMaterials.MOD_ID);
 
-public static final DeferredBlock<Block> BISMUTH_BLOCK = addToBlocks(registerBlock("bismuth_block",
-        () -> new Block(BlockBehaviour.Properties.of()
-                .strength(4f)
-                .requiresCorrectToolForDrops()
-                .sound(SoundType.AMETHYST)
-        )));
 
-public static final DeferredBlock<Block> BISMUTH_ORE = addToBlocks(registerBlock("bismuth_ore",
-        () -> new DropExperienceBlock(UniformInt.of(2,4),
-                BlockBehaviour.Properties.of()
-                        .strength(3f)
-                        .requiresCorrectToolForDrops()
-                        .sound(SoundType.STONE)
-        )));
+    //General Blocks
 
-public static final DeferredBlock<Block> BISMUTH_DEEPSLATE_ORE = addToBlocks(registerBlock("bismuth_deepslate_ore",
-        () -> new DropExperienceBlock(UniformInt.of(4,6),
-                BlockBehaviour.Properties.of()
-                        .strength(4f)
-                        .requiresCorrectToolForDrops()
-                        .sound(SoundType.DEEPSLATE)
-        )));
-
-    public static final DeferredBlock<Block> INGOT_BLOCK_GURALLOY = addToBlocks(registerBlock("ingot_block_guralloy",
+    public static final DeferredBlock<Block> GURALLOY_INGOT_BLOCK = addToBlocks(registerBlock("guralloy_ingot_block",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.NETHERITE_BLOCK)
                     .mapColor(MapColor.COLOR_YELLOW)
                     .strength(75f, 1500f)
@@ -65,29 +45,11 @@ public static final DeferredBlock<Block> BISMUTH_DEEPSLATE_ORE = addToBlocks(reg
                     .pushReaction(PushReaction.NORMAL)
             )));
 
-    public static final  DeferredBlock<Block> INGOT_BLOCK_NICKEL = addToBlocks(registerBlock("ingot_block_nickel",
-            () -> new Block(BlockBehaviour.Properties.of()
-                    .mapColor(MapColor.COLOR_GRAY)
-                    .strength(5f, 13f)
-                    .instrument(NoteBlockInstrument.BELL)
-                    .requiresCorrectToolForDrops()
-                    .pushReaction(PushReaction.NORMAL)
-            )));
-
     public static final DeferredBlock<Block> INGOT_BLOCK_RED_SILVARIUM = addToBlocks(registerBlock("ingot_block_red_silvarium",
             () -> new Block(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.COLOR_RED)
                     .strength(6f, 13f)
                     .instrument(NoteBlockInstrument.CHIME)
-                    .requiresCorrectToolForDrops()
-                    .pushReaction(PushReaction.NORMAL)
-            )));
-
-    public static final DeferredBlock<Block> INGOT_BLOCK_SILVER = addToBlocks(registerBlock("ingot_block_silver",
-            () -> new Block(BlockBehaviour.Properties.of()
-                    .mapColor(MapColor.COLOR_GRAY)
-                    .strength(5f, 13f)
-                    .instrument(NoteBlockInstrument.BELL)
                     .requiresCorrectToolForDrops()
                     .pushReaction(PushReaction.NORMAL)
             )));
@@ -107,19 +69,32 @@ public static final DeferredBlock<Block> BISMUTH_DEEPSLATE_ORE = addToBlocks(reg
                     .pushReaction(PushReaction.PUSH_ONLY)
             )));
 
-    //ores
 
-    public static final DeferredBlock<DropExperienceBlock> ORE_NICKEL = addToBlocks(registerBlock("ore_nickel",
+    //Nickel
+
+    public static final DeferredBlock<DropExperienceBlock> NICKEL_ORE = addToBlocks(registerBlock("nickel_ore",
             () -> new DropExperienceBlock(UniformInt.of(0,2),
                     BlockBehaviour.Properties.ofFullCopy(Blocks.IRON_ORE)
                     .strength(3.0f)
             )));
 
-    public static final DeferredBlock<DropExperienceBlock> ORE_DEEPSLATE_NICKEL = addToBlocks(registerBlock("ore_deepslate_nickel",
+    public static final DeferredBlock<DropExperienceBlock> NICKEL_DEEPSLATE_ORE = addToBlocks(registerBlock("nickel_deepslate_ore",
             () -> new DropExperienceBlock(UniformInt.of(1,3),
                     BlockBehaviour.Properties.ofFullCopy(Blocks.DEEPSLATE_IRON_ORE)
                     .strength(4.5f,3.0f)
             )));
+
+    public static final  DeferredBlock<Block> NICKEL_INGOT_BLOCK = addToBlocks(registerBlock("nickel_ingot_block",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.COLOR_GRAY)
+                    .strength(5f, 13f)
+                    .instrument(NoteBlockInstrument.BELL)
+                    .requiresCorrectToolForDrops()
+                    .pushReaction(PushReaction.NORMAL)
+            )));
+
+
+    //Silver
 
     public static final DeferredBlock<DropExperienceBlock> ORE_SILVER = addToBlocks(registerBlock("ore_silver",
             () -> new DropExperienceBlock(UniformInt.of(0,2),
@@ -133,25 +108,61 @@ public static final DeferredBlock<Block> BISMUTH_DEEPSLATE_ORE = addToBlocks(reg
                     .strength(4.5f,3.0f)
             )));
 
+    public static final DeferredBlock<Block> INGOT_BLOCK_SILVER = addToBlocks(registerBlock("ingot_block_silver",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .mapColor(MapColor.COLOR_GRAY)
+                    .strength(5f, 13f)
+                    .instrument(NoteBlockInstrument.BELL)
+                    .requiresCorrectToolForDrops()
+                    .pushReaction(PushReaction.NORMAL)
+            )));
+
+
+    //Bismuth
+
+    public static final DeferredBlock<Block> BISMUTH_BLOCK = addToBlocks(registerBlock("bismuth_block",
+        () -> new Block(BlockBehaviour.Properties.of()
+                .strength(4f)
+                .requiresCorrectToolForDrops()
+                .sound(SoundType.AMETHYST)
+        )));
+
+    public static final DeferredBlock<Block> BISMUTH_ORE = addToBlocks(registerBlock("bismuth_ore",
+        () -> new DropExperienceBlock(UniformInt.of(2,4),
+                BlockBehaviour.Properties.of()
+                        .strength(3f)
+                        .requiresCorrectToolForDrops()
+                        .sound(SoundType.STONE)
+        )));
+
+    public static final DeferredBlock<Block> BISMUTH_DEEPSLATE_ORE = addToBlocks(registerBlock("bismuth_deepslate_ore",
+        () -> new DropExperienceBlock(UniformInt.of(4,6),
+                BlockBehaviour.Properties.of()
+                        .strength(4f)
+                        .requiresCorrectToolForDrops()
+                        .sound(SoundType.DEEPSLATE)
+        )));
+
+
 //compressed blocks
 
     //Cobblestone
 
     public static final DeferredBlock<Block> COMPRESSED_COBBLESTONE_SINGULARITY = addToBlocks(registerBlock("compressed_cobblestone_singularity",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(INGOT_BLOCK_GURALLOY.get())
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(GURALLOY_INGOT_BLOCK.get())
                     .strength(150f,3000f)
             )));
 
     public static final DeferredBlock<Block> COMPRESSED_COBBLESTONE_9 = addToBlocks(registerBlock("compressed_cobblestone_9",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(INGOT_BLOCK_GURALLOY.get())
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(GURALLOY_INGOT_BLOCK.get())
             )));
 
     public static final DeferredBlock<Block> COMPRESSED_COBBLESTONE_8 = addToBlocks(registerBlock("compressed_cobblestone_8",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(INGOT_BLOCK_GURALLOY.get())
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(GURALLOY_INGOT_BLOCK.get())
             )));
 
     public static final DeferredBlock<Block> COMPRESSED_COBBLESTONE_7 = addToBlocks(registerBlock("compressed_cobblestone_7",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(INGOT_BLOCK_GURALLOY.get())
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(GURALLOY_INGOT_BLOCK.get())
             )));
 
     public static final DeferredBlock<Block> COMPRESSED_COBBLESTONE_6 = addToBlocks(registerBlock("compressed_cobblestone_6",

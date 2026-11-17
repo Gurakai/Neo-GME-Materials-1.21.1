@@ -2,11 +2,11 @@
   "replace": false,
   "values": [
     "neogmematerials1211:invar_ingot_block",
-    "neogmematerials1211:ingot_block_nickel",
+    "neogmematerials1211:nickel_ingot_block",
     "neogmematerials1211:ingot_block_silver",
-    "neogmematerials1211:ore_nickel",
+    "neogmematerials1211:nickel_ore",
     "neogmematerials1211:ore_silver",
-    "neogmematerials1211:ore_deepslate_nickel",
+    "neogmematerials1211:nickel_deepslate_ore",
     "neogmematerials1211:ore_deepslate_silver",
     "neogmematerials1211:compressed_cobblestone_2"
   ]

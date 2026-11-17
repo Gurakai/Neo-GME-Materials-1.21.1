@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "neogmematerials1211:ingot_block_nickel"
+      "item": "neogmematerials1211:nickel_ingot_block"
     }
   ],
   "result": {

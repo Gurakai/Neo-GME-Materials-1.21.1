@@ -10,7 +10,7 @@
           "children": [
             {
               "type": "minecraft:item",
-              "name": "neogmematerials1211:ore_deepslate_nickel",
+              "name": "neogmematerials1211:nickel_deepslate_ore",
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
@@ -50,5 +50,5 @@
     }
   ],
   "functions": [],
-  "random_sequence": "neogmematerials1211:block/ore_deepslate_nickel"
+  "random_sequence": "neogmematerials1211:block/nickel_deepslate_ore"
 }
