@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "neogmematerials1211:ingot_block_red_silvarium",
+          "name": "neogmematerials1211:red_silvarium_ingot_block",
           "conditions": [
             {
               "condition": "minecraft:survives_explosion"
@@ -19,5 +19,5 @@
     }
   ],
   "functions": [],
-  "random_sequence": "neogmematerials1211:block/ingot_block_red_silvarium"
+  "random_sequence": "neogmematerials1211:block/red_silvarium_ingot_block"
 }

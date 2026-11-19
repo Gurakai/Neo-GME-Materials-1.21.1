@@ -45,7 +45,7 @@ public class ModBlocks {
                     .pushReaction(PushReaction.NORMAL)
             )));
 
-    public static final DeferredBlock<Block> INGOT_BLOCK_RED_SILVARIUM = addToBlocks(registerBlock("ingot_block_red_silvarium",
+    public static final DeferredBlock<Block> RED_SILVARIUM_INGOT_BLOCK = addToBlocks(registerBlock("red_silvarium_ingot_block",
             () -> new Block(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.COLOR_RED)
                     .strength(6f, 13f)
@@ -63,7 +63,7 @@ public class ModBlocks {
             )));
 
     public static final DeferredBlock<Block> INGOT_BLOCK_PLATINUM = addToBlocks(registerBlock("ingot_block_platinum",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(INGOT_BLOCK_RED_SILVARIUM.get())
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(RED_SILVARIUM_INGOT_BLOCK.get())
                     .mapColor(MapColor.COLOR_CYAN)
                     .requiresCorrectToolForDrops()
                     .pushReaction(PushReaction.PUSH_ONLY)
