@@ -54,7 +54,7 @@ public class ModBlocks {
                     .pushReaction(PushReaction.NORMAL)
             )));
 
-    public static final DeferredBlock<Block> BLOCK_THE_RAREST_STEAK = addToBlocks(BLOCKS.register("block_the_rarest_steak",
+    public static final DeferredBlock<Block> THE_RAREST_STEAK_BLOCK = addToBlocks(BLOCKS.register("the_rarest_steak_block",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.HONEY_BLOCK)
                     .mapColor(MapColor.COLOR_RED)
                     .strength(0.1f)
@@ -96,19 +96,19 @@ public class ModBlocks {
 
     //Silver
 
-    public static final DeferredBlock<DropExperienceBlock> ORE_SILVER = addToBlocks(registerBlock("ore_silver",
+    public static final DeferredBlock<DropExperienceBlock> SILVER_ORE = addToBlocks(registerBlock("silver_ore",
             () -> new DropExperienceBlock(UniformInt.of(0,2),
                     BlockBehaviour.Properties.ofFullCopy(Blocks.GOLD_ORE)
                     .strength(3.0f)
             )));
 
-    public static final DeferredBlock<DropExperienceBlock> ORE_DEEPSLATE_SILVER = addToBlocks(registerBlock("ore_deepslate_silver",
+    public static final DeferredBlock<DropExperienceBlock> SILVER_DEEPSLATE_ORE = addToBlocks(registerBlock("silver_deepslate_ore",
             () -> new DropExperienceBlock(UniformInt.of(1,3),
                     BlockBehaviour.Properties.ofFullCopy(Blocks.DEEPSLATE_GOLD_ORE)
                     .strength(4.5f,3.0f)
             )));
 
-    public static final DeferredBlock<Block> INGOT_BLOCK_SILVER = addToBlocks(registerBlock("ingot_block_silver",
+    public static final DeferredBlock<Block> SILVER_INGOT_BLOCK = addToBlocks(registerBlock("silver_ingot_block",
             () -> new Block(BlockBehaviour.Properties.of()
                     .mapColor(MapColor.COLOR_GRAY)
                     .strength(5f, 13f)

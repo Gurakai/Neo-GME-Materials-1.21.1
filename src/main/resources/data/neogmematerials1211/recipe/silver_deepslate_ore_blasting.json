@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:smelting",
+  "type": "minecraft:blasting",
   "category": "misc",
-  "cookingtime": 200,
+  "cookingtime": 100,
   "experience": 0.2,
   "ingredient": {
-    "item": "neogmematerials1211:ore_silver"
+    "item": "neogmematerials1211:silver_deepslate_ore"
   },
   "result": {
     "id": "neogmematerials1211:ingot_silver"

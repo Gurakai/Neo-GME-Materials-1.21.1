@@ -10,7 +10,7 @@
           "children": [
             {
               "type": "minecraft:item",
-              "name": "neogmematerials1211:ore_silver",
+              "name": "neogmematerials1211:silver_ore",
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
@@ -50,5 +50,5 @@
     }
   ],
   "functions": [],
-  "random_sequence": "neogmematerials1211:block/ore_silver"
+  "random_sequence": "neogmematerials1211:block/silver_ore"
 }

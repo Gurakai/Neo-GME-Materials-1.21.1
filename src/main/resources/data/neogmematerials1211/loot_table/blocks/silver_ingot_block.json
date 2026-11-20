@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "neogmematerials1211:ingot_block_silver",
+          "name": "neogmematerials1211:silver_ingot_block",
           "conditions": [
             {
               "condition": "minecraft:survives_explosion"
@@ -19,5 +19,5 @@
     }
   ],
   "functions": [],
-  "random_sequence": "neogmematerials1211:block/ingot_block_silver"
+  "random_sequence": "neogmematerials1211:block/silver_ingot_block"
 }

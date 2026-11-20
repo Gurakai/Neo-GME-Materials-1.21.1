@@ -4,7 +4,7 @@
   "cookingtime": 100,
   "experience": 0.2,
   "ingredient": {
-    "item": "neogmematerials1211:ore_deepslate_silver"
+    "item": "neogmematerials1211:silver_ore"
   },
   "result": {
     "id": "neogmematerials1211:ingot_silver"

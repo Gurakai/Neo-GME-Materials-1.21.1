@@ -33,8 +33,8 @@ public class ModItems {
 
     //foodblocks
 
-    public static final DeferredItem<BlockItem> BLOCK_THE_RAREST_STEAK = addToItems(ITEMS.register("block_the_rarest_steak",
-            () -> new BlockItem(ModBlocks.BLOCK_THE_RAREST_STEAK.get(),
+    public static final DeferredItem<BlockItem> THE_RAREST_STEAK_BLOCK = addToItems(ITEMS.register("the_rarest_steak_block",
+            () -> new BlockItem(ModBlocks.THE_RAREST_STEAK_BLOCK.get(),
                     new Item.Properties()
                             .rarity(Rarity.RARE)
                             .food(new FoodProperties.Builder()
