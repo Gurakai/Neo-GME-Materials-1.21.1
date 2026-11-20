@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "neogmematerials1211:item/ingot_red_silvarium"
+    "layer0": "neogmematerials1211:item/silver_nugget"
   }
 }

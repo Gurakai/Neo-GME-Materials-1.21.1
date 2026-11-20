@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "neogmematerials1211:ingot_red_silvarium"
+      "item": "neogmematerials1211:red_silvarium_ingot"
     }
   ],
   "result": {
-    "id": "neogmematerials1211:nugget_red_silvarium",
+    "id": "neogmematerials1211:red_silvarium_nugget",
     "count": 9
   }
 }

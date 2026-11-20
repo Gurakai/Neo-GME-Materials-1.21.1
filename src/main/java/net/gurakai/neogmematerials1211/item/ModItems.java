@@ -113,17 +113,17 @@ public class ModItems {
 
     //Silver
 
-    public static final DeferredItem<Item> INGOT_SILVER = addToItems(ITEMS.register("ingot_silver",
+    public static final DeferredItem<Item> SILVER_INGOT = addToItems(ITEMS.register("silver_ingot",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.COMMON)
             )));
 
-    public static final DeferredItem<Item> NUGGET_SILVER = addToItems(ITEMS.register("nugget_silver",
+    public static final DeferredItem<Item> SILVER_NUGGET = addToItems(ITEMS.register("silver_nugget",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.COMMON)
             )));
 
-    public static final DeferredItem<Item> PULVERIZED_SILVER = addToItems(ITEMS.register("pulverized_silver",
+    public static final DeferredItem<Item> SILVER_PULVERIZED = addToItems(ITEMS.register("silver_pulverized",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.COMMON)
             )));
@@ -131,17 +131,17 @@ public class ModItems {
 
     //Red Silvarium
 
-    public static final DeferredItem<Item> INGOT_RED_SILVARIUM = addToItems(ITEMS.register("ingot_red_silvarium",
+    public static final DeferredItem<Item> RED_SILVARIUM_INGOT = addToItems(ITEMS.register("red_silvarium_ingot",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.UNCOMMON)
             )));
 
-    public static final DeferredItem<Item> NUGGET_RED_SILVARIUM = addToItems(ITEMS.register("nugget_red_silvarium",
+    public static final DeferredItem<Item> RED_SILVARIUM_NUGGET = addToItems(ITEMS.register("red_silvarium_nugget",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.UNCOMMON)
             )));
 
-    public static final DeferredItem<Item> AMALGAM_RED_SILVARIUM = addToItems(ITEMS.register("amalgam_red_silvarium",
+    public static final DeferredItem<Item> RED_SILVARIUM_AMALGAM = addToItems(ITEMS.register("red_silvarium_amalgam",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.UNCOMMON)
             )));

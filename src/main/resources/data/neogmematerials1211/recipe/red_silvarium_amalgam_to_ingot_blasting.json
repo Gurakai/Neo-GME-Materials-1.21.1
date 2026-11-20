@@ -4,9 +4,9 @@
   "cookingtime": 100,
   "experience": 0.2,
   "ingredient": {
-    "item": "neogmematerials1211:raw_silver"
+    "item": "neogmematerials1211:red_silvarium_amalgam"
   },
   "result": {
-    "id": "neogmematerials1211:ingot_silver"
+    "id": "neogmematerials1211:red_silvarium_ingot"
   }
 }

@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "neogmematerials1211:ingot_silver"
+      "item": "neogmematerials1211:silver_ingot"
     }
   ],
   "result": {
-    "id": "neogmematerials1211:nugget_silver",
+    "id": "neogmematerials1211:silver_nugget",
     "count": 9
   }
 }

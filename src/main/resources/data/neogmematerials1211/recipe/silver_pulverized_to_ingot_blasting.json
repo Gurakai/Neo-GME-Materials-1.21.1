@@ -4,9 +4,9 @@
   "cookingtime": 100,
   "experience": 0.2,
   "ingredient": {
-    "item": "neogmematerials1211:pulverized_silver"
+    "item": "neogmematerials1211:silver_pulverized"
   },
   "result": {
-    "id": "neogmematerials1211:ingot_silver"
+    "id": "neogmematerials1211:silver_ingot"
   }
 }
