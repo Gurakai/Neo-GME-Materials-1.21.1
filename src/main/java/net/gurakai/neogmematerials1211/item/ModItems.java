@@ -59,7 +59,7 @@ public class ModItems {
 
     //Guralloy
 
-    public static final DeferredItem<Item> GURALLOY_INGOT = addToItems(ITEMS.register("ingot_guralloy",
+    public static final DeferredItem<Item> GURALLOY_INGOT = addToItems(ITEMS.register("guralloy_ingot",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));

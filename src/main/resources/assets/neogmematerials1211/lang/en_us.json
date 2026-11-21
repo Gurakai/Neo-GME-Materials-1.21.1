@@ -7,56 +7,6 @@
 
   "item.neogmematerials1211.cernicium_amalgam": "Amalgam of Cernicium",
 
-  "item.neogmematerials1211.guralloy_apple": "Guralloy Apple",
-
-  "item.neogmematerials1211.music_disc_bar_brawl": "Bar Brawl Music Disc",
-  "item.neogmematerials1211.music_disc_bar_brawl.desc": "Bryan Tech - Bar Brawl (CC0)",
-
-  "item.neogmematerials1211.invar_ingot": "Invar Ingot",
-  "item.neogmematerials1211.invar_amalgam": "Amalgam of Invar",
-  "item.neogmematerials1211.invar_nugget": "Invar Nugget",
-  "block.neogmematerials1211.invar_ingot_block": "Block of Invar",
-
-  "item.neogmematerials1211.ingot_guralloy": "Guralloy Ingot",
-  "item.neogmematerials1211.nickel_ingot": "Nickel Ingot",
-  "item.neogmematerials1211.silver_ingot": "Silver Ingot",
-  "item.neogmematerials1211.red_silvarium_ingot": "Red Silvarium Ingot",
-  "item.neogmematerials1211.platinum_ingot": "Platinum Ingot",
-  "item.neogmematerials1211.luminium_ingot": "Shining Luminium Ingot",
-  "item.neogmematerials1211.resonant_platinarium_ingot": "Resonant Platinarium Ingot",
-
-  "item.neogmematerials1211.guralloy_nugget": "Guralloy Nugget",
-  "item.neogmematerials1211.nickel_nugget": "Nickel Nugget",
-  "item.neogmematerials1211.silver_nugget": "Silver Nugget",
-  "item.neogmematerials1211.red_silvarium_nugget": "Red Silvarium Nugget",
-  "item.neogmematerials1211.platinum_nugget": "Platinum Nugget",
-  "item.neogmematerials1211.luminium_nugget": "Shining Luminium Nugget",
-  "item.neogmematerials1211.resonant_platinarium_nugget": "Resonant Platinarium Nugget",
-
-  "item.neogmematerials1211.nickel_raw": "Raw Nickel",
-  "item.neogmematerials1211.silver_raw": "Raw Silver",
-
-  "item.neogmematerials1211.nickel_pulverized": "Pulverized Nickel",
-  "item.neogmematerials1211.silver_pulverized": "Pulverized Silver",
-  "item.neogmematerials1211.guralloy_amalgam": "Amalgam of Guralloy",
-  "item.neogmematerials1211.red_silvarium_amalgam": "Amalgam of Red Silvarium",
-  "item.neogmematerials1211.platinum_dust": "Platinum Dust",
-  "item.neogmematerials1211.platinum_hydrodisulfide": "Amalgam of Platinum Hydro-DiSulfide",
-  "item.neogmematerials1211.luminium_amalgam": "Amalgam of Shining Luminium",
-  "item.neogmematerials1211.resonant_platinarium_amalgam": "Amalgam of Resonant Platinarium",
-  "item.neogmematerials1211.glowvarium_amalgam": "Amalgam of Glowvarium",
-
-  "block.neogmematerials1211.guralloy_ingot_block": "Block of Guralloy",
-  "block.neogmematerials1211.nickel_ingot_block": "Block of Nickel",
-  "block.neogmematerials1211.red_silvarium_ingot_block": "Block of Red Silvarium",
-  "block.neogmematerials1211.silver_ingot_block": "Block of silver",
-  "block.neogmematerials1211.the_rarest_steak_block": "The Rarest Steak Block",
-  "block.neogmematerials1211.platinum_ingot_block": "Block of Platinum",
-  "block.neogmematerials1211.nickel_ore": "Nickel Ore",
-  "block.neogmematerials1211.nickel_deepslate_ore": "Deepslate Nickel Ore",
-  "block.neogmematerials1211.silver_ore": "Silver Ore",
-  "block.neogmematerials1211.silver_deepslate_ore": "Deepslate Silver Ore",
-
   "block.neogmematerials1211.compressed_cobblestone_singularity": "Compressed Cobblestone Singularity",
   "block.neogmematerials1211.compressed_cobblestone_9": "9 x Compressed Cobblestone",
   "block.neogmematerials1211.compressed_cobblestone_8": "8 x Compressed Cobblestone",
@@ -68,24 +18,81 @@
   "block.neogmematerials1211.compressed_cobblestone_2": "2 x Compressed Cobblestone",
   "block.neogmematerials1211.compressed_cobblestone": "Compressed Cobblestone",
 
+  "item.neogmematerials1211.primitive_fire_starter": "Primitive Fire Starter",
+  "item.neogmematerials1211.advanced_fire_starter": "Advanced Fire Starter",
+
+  "item.neogmematerials1211.glowvarium_amalgam": "Amalgam of Glowvarium",
+
+  "item.neogmematerials1211.guralloy_apple": "Guralloy Apple",
+  "item.neogmematerials1211.guralloy_ingot": "Guralloy Ingot",
+  "item.neogmematerials1211.guralloy_nugget": "Guralloy Nugget",
+  "item.neogmematerials1211.guralloy_amalgam": "Amalgam of Guralloy",
+  "block.neogmematerials1211.guralloy_ingot_block": "Block of Guralloy",
   "item.neogmematerials1211.sword_guralloy": "Guralloy Sword",
   "item.neogmematerials1211.pickaxe_guralloy": "Guralloy Pickaxe",
   "item.neogmematerials1211.axe_guralloy": "Guralloy Axe",
   "item.neogmematerials1211.hoe_guralloy": "Guralloy Hoe",
   "item.neogmematerials1211.shovel_guralloy": "Guralloy Shovel",
   "item.neogmematerials1211.helmet_guralloy": "Guralloy Helmet",
-  "item.neogmematerials1211.helmet_padded_leather": "Padded Leather Helmet",
   "item.neogmematerials1211.chestplate_guralloy": "Guralloy Chestplate",
-  "item.neogmematerials1211.chestplate_padded_leather": "Padded Leather Chestplate",
   "item.neogmematerials1211.leggings_guralloy": "Guralloy Leggings",
-  "item.neogmematerials1211.leggings_padded_leather": "Padded Leather Leggings",
   "item.neogmematerials1211.boots_guralloy": "Guralloy Boots",
-  "item.neogmematerials1211.boots_padded_leather": "Padded Leather Boots",
-  "item.neogmematerials1211.sword_the_rarest": "The Rarest Sword",
-  "item.neogmematerials1211.primitive_fire_starter": "Primitive Fire Starter",
-  "item.neogmematerials1211.advanced_fire_starter": "Advanced Fire Starter",
-  "item.neogmematerials1211.wool_padding": "Wool Padding",
   "item.neogmematerials1211.guralloy_template": "Guralloy Upgrade Smithing Template",
+
+  "item.neogmematerials1211.invar_ingot": "Invar Ingot",
+  "item.neogmematerials1211.invar_amalgam": "Amalgam of Invar",
+  "item.neogmematerials1211.invar_nugget": "Invar Nugget",
+  "block.neogmematerials1211.invar_ingot_block": "Block of Invar",
+
+  "item.neogmematerials1211.luminium_ingot": "Shining Luminium Ingot",
+  "item.neogmematerials1211.luminium_nugget": "Shining Luminium Nugget",
+  "item.neogmematerials1211.luminium_amalgam": "Amalgam of Shining Luminium",
+
+  "item.neogmematerials1211.music_disc_bar_brawl": "Bar Brawl Music Disc",
+  "item.neogmematerials1211.music_disc_bar_brawl.desc": "Bryan Tech - Bar Brawl (CC0)",
+
+  "item.neogmematerials1211.nickel_ingot": "Nickel Ingot",
+  "item.neogmematerials1211.nickel_nugget": "Nickel Nugget",
+  "item.neogmematerials1211.nickel_raw": "Raw Nickel",
+  "item.neogmematerials1211.nickel_pulverized": "Pulverized Nickel",
+  "block.neogmematerials1211.nickel_ingot_block": "Block of Nickel",
+  "block.neogmematerials1211.nickel_ore": "Nickel Ore",
+  "block.neogmematerials1211.nickel_deepslate_ore": "Deepslate Nickel Ore",
+
+  "item.neogmematerials1211.helmet_padded_leather": "Padded Leather Helmet",
+  "item.neogmematerials1211.chestplate_padded_leather": "Padded Leather Chestplate",
+  "item.neogmematerials1211.leggings_padded_leather": "Padded Leather Leggings",
+  "item.neogmematerials1211.boots_padded_leather": "Padded Leather Boots",
+
+  "item.neogmematerials1211.platinum_ingot": "Platinum Ingot",
+  "item.neogmematerials1211.platinum_nugget": "Platinum Nugget",
+  "item.neogmematerials1211.platinum_dust": "Platinum Dust",
+  "block.neogmematerials1211.platinum_ingot_block": "Block of Platinum",
+
+  "item.neogmematerials1211.platinum_hydrodisulfide": "Amalgam of Platinum Hydro-DiSulfide",
+
+  "block.neogmematerials1211.the_rarest_steak_block": "The Rarest Steak Block",
+  "item.neogmematerials1211.sword_the_rarest": "The Rarest Sword",
+
+  "item.neogmematerials1211.red_silvarium_ingot": "Red Silvarium Ingot",
+  "item.neogmematerials1211.red_silvarium_nugget": "Red Silvarium Nugget",
+  "item.neogmematerials1211.red_silvarium_amalgam": "Amalgam of Red Silvarium",
+  "block.neogmematerials1211.red_silvarium_ingot_block": "Block of Red Silvarium",
+
+  "item.neogmematerials1211.resonant_platinarium_ingot": "Resonant Platinarium Ingot",
+  "item.neogmematerials1211.resonant_platinarium_nugget": "Resonant Platinarium Nugget",
+  "item.neogmematerials1211.resonant_platinarium_amalgam": "Amalgam of Resonant Platinarium",
+
+  "item.neogmematerials1211.silver_ingot": "Silver Ingot",
+  "item.neogmematerials1211.silver_raw": "Raw Silver",
+  "item.neogmematerials1211.silver_nugget": "Silver Nugget",
+  "item.neogmematerials1211.silver_pulverized": "Pulverized Silver",
+  "block.neogmematerials1211.silver_ingot_block": "Block of silver",
+  "block.neogmematerials1211.silver_ore": "Silver Ore",
+  "block.neogmematerials1211.silver_deepslate_ore": "Deepslate Silver Ore",
+
+  "item.neogmematerials1211.wool_padding": "Wool Padding",
+
 
   "creativetab.neogmematerials1211.gme_items": "GME Items",
   "creativetab.neogmematerials1211.gme_blocks": "GME Blocks"
