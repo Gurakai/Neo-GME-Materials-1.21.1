@@ -62,7 +62,7 @@ public class ModBlocks {
                     .pushReaction(PushReaction.DESTROY)
             )));
 
-    public static final DeferredBlock<Block> INGOT_BLOCK_PLATINUM = addToBlocks(registerBlock("ingot_block_platinum",
+    public static final DeferredBlock<Block> PLATINUM_INGOT_BLOCK = addToBlocks(registerBlock("platinum_ingot_block",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(RED_SILVARIUM_INGOT_BLOCK.get())
                     .mapColor(MapColor.COLOR_CYAN)
                     .requiresCorrectToolForDrops()

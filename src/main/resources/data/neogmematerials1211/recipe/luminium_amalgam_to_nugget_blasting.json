@@ -4,9 +4,9 @@
   "cookingtime": 800,
   "experience": 0.4,
   "ingredient": {
-    "item": "neogmematerials1211:amalgam_luminium"
+    "item": "neogmematerials1211:luminium_amalgam"
   },
   "result": {
-    "id": "neogmematerials1211:nugget_luminium"
+    "id": "neogmematerials1211:luminium_nugget"
   }
 }

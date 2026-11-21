@@ -167,17 +167,17 @@ public class ModItems {
 
     //Luminium
 
-    public static final DeferredItem<Item> INGOT_LUMINIUM = addToItems(ITEMS.register("ingot_luminium",
+    public static final DeferredItem<Item> LUMINIUM_INGOT = addToItems(ITEMS.register("luminium_ingot",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.EPIC)
             )));
 
-    public static final DeferredItem<Item> NUGGET_LUMINIUM = addToItems(ITEMS.register("nugget_luminium",
+    public static final DeferredItem<Item> LUMINIUM_NUGGET = addToItems(ITEMS.register("luminium_nugget",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.EPIC)
             )));
 
-    public static final DeferredItem<Item> AMALGAM_LUMINIUM = addToItems(ITEMS.register("amalgam_luminium",
+    public static final DeferredItem<Item> LUMINIUM_AMALGAM = addToItems(ITEMS.register("luminium_amalgam",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.EPIC)
             )));
@@ -211,7 +211,7 @@ public class ModItems {
             )));
 
 
-    //powders - blends - amalgams
+    //blends - amalgams
 
     public static final DeferredItem<Item> AMALGAM_CERNICIUM = addToItems(ITEMS.register("amalgam_cernicium",
             () -> new Item(new Item.Properties()

@@ -22,7 +22,7 @@
   "item.neogmematerials1211.silver_ingot": "Silver Ingot",
   "item.neogmematerials1211.red_silvarium_ingot": "Red Silvarium Ingot",
   "item.neogmematerials1211.platinum_ingot": "Platinum Ingot",
-  "item.neogmematerials1211.ingot_luminium": "Shining Luminium Ingot",
+  "item.neogmematerials1211.luminium_ingot": "Shining Luminium Ingot",
   "item.neogmematerials1211.ingot_resonant_platinarium": "Resonant Platinarium Ingot",
 
   "item.neogmematerials1211.guralloy_nugget": "Guralloy Nugget",
@@ -30,7 +30,7 @@
   "item.neogmematerials1211.silver_nugget": "Silver Nugget",
   "item.neogmematerials1211.red_silvarium_nugget": "Red Silvarium Nugget",
   "item.neogmematerials1211.platinum_nugget": "Platinum Nugget",
-  "item.neogmematerials1211.nugget_luminium": "Shining Luminium Nugget",
+  "item.neogmematerials1211.luminium_nugget": "Shining Luminium Nugget",
   "item.neogmematerials1211.nugget_resonant_platinarium": "Resonant Platinarium Nugget",
 
   "item.neogmematerials1211.raw_nickel": "Raw Nickel",
@@ -42,7 +42,7 @@
   "item.neogmematerials1211.red_silvarium_amalgam": "Amalgam of Red Silvarium",
   "item.neogmematerials1211.platinum_dust": "Platinum Dust",
   "item.neogmematerials1211.platinum_hydrodisulfide": "Amalgam of Platinum Hydro-DiSulfide",
-  "item.neogmematerials1211.amalgam_luminium": "Amalgam of Shining Luminium",
+  "item.neogmematerials1211.luminium_amalgam": "Amalgam of Shining Luminium",
   "item.neogmematerials1211.amalgam_resonant_platinarium": "Amalgam of Resonant Platinarium",
   "item.neogmematerials1211.amalgam_glowvarium": "Amalgam of Glowvarium",
 
@@ -51,7 +51,7 @@
   "block.neogmematerials1211.red_silvarium_ingot_block": "Block of Red Silvarium",
   "block.neogmematerials1211.silver_ingot_block": "Block of silver",
   "block.neogmematerials1211.the_rarest_steak_block": "The Rarest Steak Block",
-  "block.neogmematerials1211.ingot_block_platinum": "Block of Platinum",
+  "block.neogmematerials1211.platinum_ingot_block": "Block of Platinum",
   "block.neogmematerials1211.nickel_ore": "Nickel Ore",
   "block.neogmematerials1211.nickel_deepslate_ore": "Deepslate Nickel Ore",
   "block.neogmematerials1211.silver_ore": "Silver Ore",
