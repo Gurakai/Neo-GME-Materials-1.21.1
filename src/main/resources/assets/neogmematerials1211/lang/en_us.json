@@ -2,8 +2,8 @@
   "item.neogmematerials1211.bismuth": "Bismuth",
   "item.neogmematerials1211.bismuth_raw": "Raw Bismuth",
   "block.neogmematerials1211.bismuth_block": "Block of Bismuth",
-  "block.neogmematerials1211.bismuth_ore": "Block of Bismuth Ore",
-  "block.neogmematerials1211.bismuth_deepslate_ore": "Block of Deepslate Bismuth Ore",
+  "block.neogmematerials1211.bismuth_ore": "Bismuth Ore",
+  "block.neogmematerials1211.bismuth_deepslate_ore": "Deepslate Bismuth Ore",
 
   "item.neogmematerials1211.cernicium_amalgam": "Amalgam of Cernicium",
 
@@ -18,8 +18,9 @@
   "block.neogmematerials1211.compressed_cobblestone_2": "2 x Compressed Cobblestone",
   "block.neogmematerials1211.compressed_cobblestone": "Compressed Cobblestone",
 
-  "item.neogmematerials1211.primitive_fire_starter": "Primitive Fire Starter",
-  "item.neogmematerials1211.advanced_fire_starter": "Advanced Fire Starter",
+  "item.neogmematerials1211.fire_starter_primitive": "Primitive Fire Starter",
+  "item.neogmematerials1211.fire_starter_advanced": "Advanced Fire Starter",
+  "item.neogmematerials1211.fire_starter_advanced_subassembly": "Advanced Fire Starter Subassembly",
 
   "item.neogmematerials1211.glowvarium_amalgam": "Amalgam of Glowvarium",
 
@@ -28,16 +29,16 @@
   "item.neogmematerials1211.guralloy_nugget": "Guralloy Nugget",
   "item.neogmematerials1211.guralloy_amalgam": "Amalgam of Guralloy",
   "block.neogmematerials1211.guralloy_ingot_block": "Block of Guralloy",
-  "item.neogmematerials1211.sword_guralloy": "Guralloy Sword",
-  "item.neogmematerials1211.pickaxe_guralloy": "Guralloy Pickaxe",
-  "item.neogmematerials1211.axe_guralloy": "Guralloy Axe",
-  "item.neogmematerials1211.hoe_guralloy": "Guralloy Hoe",
-  "item.neogmematerials1211.shovel_guralloy": "Guralloy Shovel",
-  "item.neogmematerials1211.helmet_guralloy": "Guralloy Helmet",
-  "item.neogmematerials1211.chestplate_guralloy": "Guralloy Chestplate",
-  "item.neogmematerials1211.leggings_guralloy": "Guralloy Leggings",
-  "item.neogmematerials1211.boots_guralloy": "Guralloy Boots",
-  "item.neogmematerials1211.guralloy_template": "Guralloy Upgrade Smithing Template",
+  "item.neogmematerials1211.guralloy_sword": "Guralloy Sword",
+  "item.neogmematerials1211.guralloy_pickaxe": "Guralloy Pickaxe",
+  "item.neogmematerials1211.guralloy_axe": "Guralloy Axe",
+  "item.neogmematerials1211.guralloy_hoe": "Guralloy Hoe",
+  "item.neogmematerials1211.guralloy_shovel": "Guralloy Shovel",
+  "item.neogmematerials1211.guralloy_helmet": "Guralloy Helmet",
+  "item.neogmematerials1211.guralloy_chestplate": "Guralloy Chestplate",
+  "item.neogmematerials1211.guralloy_leggings": "Guralloy Leggings",
+  "item.neogmematerials1211.guralloy_boots": "Guralloy Boots",
+  "item.neogmematerials1211.guralloy_template": "Guralloy Smithing Template",
 
   "item.neogmematerials1211.invar_ingot": "Invar Ingot",
   "item.neogmematerials1211.invar_amalgam": "Amalgam of Invar",
@@ -59,10 +60,10 @@
   "block.neogmematerials1211.nickel_ore": "Nickel Ore",
   "block.neogmematerials1211.nickel_deepslate_ore": "Deepslate Nickel Ore",
 
-  "item.neogmematerials1211.helmet_padded_leather": "Padded Leather Helmet",
-  "item.neogmematerials1211.chestplate_padded_leather": "Padded Leather Chestplate",
-  "item.neogmematerials1211.leggings_padded_leather": "Padded Leather Leggings",
-  "item.neogmematerials1211.boots_padded_leather": "Padded Leather Boots",
+  "item.neogmematerials1211.padded_leather_helmet": "Padded Leather Helmet",
+  "item.neogmematerials1211.padded_leather_chestplate": "Padded Leather Chestplate",
+  "item.neogmematerials1211.padded_leather_leggings": "Padded Leather Leggings",
+  "item.neogmematerials1211.padded_leather_boots": "Padded Leather Boots",
 
   "item.neogmematerials1211.platinum_ingot": "Platinum Ingot",
   "item.neogmematerials1211.platinum_nugget": "Platinum Nugget",
@@ -71,8 +72,8 @@
 
   "item.neogmematerials1211.platinum_hydrodisulfide": "Amalgam of Platinum Hydro-DiSulfide",
 
-  "block.neogmematerials1211.the_rarest_steak_block": "The Rarest Steak Block",
-  "item.neogmematerials1211.sword_the_rarest": "The Rarest Sword",
+  "block.neogmematerials1211.the_rarest_steak_block": "Block of The Rarest Steak",
+  "item.neogmematerials1211.the_rarest_sword": "The Rarest Sword",
 
   "item.neogmematerials1211.red_silvarium_ingot": "Red Silvarium Ingot",
   "item.neogmematerials1211.red_silvarium_nugget": "Red Silvarium Nugget",

@@ -4,11 +4,11 @@
     "item": "neogmematerials1211:guralloy_ingot"
   },
   "base": {
-    "item": "minecraft:netherite_axe"
+    "item": "minecraft:netherite_pickaxe"
   },
-
+  "result": {
     "count": 1,
-    "id": "neogmematerials1211:axe_guralloy"
+    "id": "neogmematerials1211:guralloy_pickaxe"
   },
   "template": {
     "item": "neogmematerials1211:guralloy_template"

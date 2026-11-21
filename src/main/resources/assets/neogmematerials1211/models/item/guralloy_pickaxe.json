@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "neogmematerials1211:item/hoe_guralloy"
+    "layer0": "neogmematerials1211:item/guralloy_pickaxe"
   }
 }

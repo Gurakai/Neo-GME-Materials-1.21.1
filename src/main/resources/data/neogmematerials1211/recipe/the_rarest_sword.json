@@ -3,17 +3,17 @@
   "pattern": [
     " B ",
     " B ",
-    " b "
+    " A "
   ],
   "key": {
-    "b": {
-      "item": "minecraft:bone"
+    "A": {
+      "tag": "c:bones"
     },
     "B": {
       "item": "neogmematerials1211:the_rarest_steak_block"
     }
   },
   "result": {
-    "id": "neogmematerials1211:sword_the_rarest"
+    "id": "neogmematerials1211:the_rarest_sword"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "neogmematerials1211:item/axe_guralloy"
+    "layer0": "neogmematerials1211:item/guralloy_helmet"
   }
 }

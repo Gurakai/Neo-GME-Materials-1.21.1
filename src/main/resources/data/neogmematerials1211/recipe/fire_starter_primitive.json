@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tools/bow"
+    },
+    {
+      "tag": "c:rods/wooden"
+    },
+    {
+      "tag": "minecraft:logs"
+    }
+  ],
+  "result": {
+    "id": "neogmematerials1211:fire_starter_primitive"
+  }
+}

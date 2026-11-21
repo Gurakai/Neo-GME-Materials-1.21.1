@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "neogmematerials1211:item/advanced_fire_starter"
+    "layer0": "neogmematerials1211:item/guralloy_chestplate"
   }
 }

@@ -7,16 +7,16 @@
   ],
   "key": {
     "A": {
-      "tag": "forge:dusts/osmium"
+      "tag": "c:dusts/osmium"
     },
     "B": {
-      "tag": "forge:dusts/nickel"
+      "tag": "c:dusts/nickel"
     },
     "C": {
-      "tag": "forge:dusts/copper"
+      "tag": "c:dusts/copper"
     },
     "D": {
-      "tag": "forge:dusts/sulfur"
+      "tag": "c:dusts/sulfur"
     }
   },
   "result": {

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "neogmematerials1211:guralloy_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_boots"
+  },
+  "result": {
+    "count": 1,
+    "id": "neogmematerials1211:guralloy_boots"
+  },
+  "template": {
+    "item": "neogmematerials1211:guralloy_template"
+  }
+}

@@ -1,8 +1,9 @@
 {
   "replace": false,
   "values": [
-    "neogmematerials1211:compressed_cobblestone_6",
-    "neogmematerials1211:compressed_cobblestone_5",
-    "neogmematerials1211:compressed_cobblestone_4"
+    "neogmematerials1211:compressed_cobblestone_singularity",
+    "neogmematerials1211:compressed_cobblestone_9",
+    "neogmematerials1211:compressed_cobblestone_8",
+    "neogmematerials1211:compressed_cobblestone_7"
   ]
 }

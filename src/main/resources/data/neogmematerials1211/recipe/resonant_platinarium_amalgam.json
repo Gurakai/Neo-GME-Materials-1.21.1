@@ -10,13 +10,13 @@
       "item": "neogmematerials1211:guralloy_amalgam"
     },
     "B": {
-      "tag": "forge:dusts/platinum"
+      "tag": "c:dusts/platinum"
     },
     "C": {
       "item": "neogmematerials1211:glowvarium_amalgam"
     },
     "D": {
-      "tag": "forge:ender_pearls"
+      "item": "minecraft:ender_pearl"
     }
   },
   "result": {

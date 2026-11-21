@@ -2,31 +2,31 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "forge:dusts/silver"
+      "tag": "c:dusts/silver"
     },
     {
-      "tag": "forge:dusts/silver"
+      "tag": "c:dusts/silver"
     },
     {
-      "tag": "forge:dusts/silver"
+      "tag": "c:dusts/silver"
     },
     {
-      "tag": "forge:dusts/copper"
+      "tag": "c:dusts/copper"
     },
     {
-      "tag": "forge:dusts/copper"
+      "tag": "c:dusts/copper"
     },
     {
-      "tag": "forge:dusts/nickel"
+      "tag": "c:dusts/nickel"
     },
     {
-      "item": "minecraft:redstone"
+      "tag": "c:dusts/redstone"
     },
     {
-      "item": "minecraft:redstone"
+      "tag": "c:dusts/redstone"
     },
     {
-      "item": "minecraft:redstone"
+      "tag": "c:dusts/redstone"
     }
   ],
   "result": {

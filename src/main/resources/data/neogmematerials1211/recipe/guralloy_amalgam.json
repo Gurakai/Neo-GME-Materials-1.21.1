@@ -10,16 +10,16 @@
       "item": "minecraft:netherite_scrap"
     },
     "B": {
-      "tag": "forge:dusts/diamond"
+      "tag": "c:dusts/diamond"
     },
     "C": {
-      "tag": "forge:dusts/gold"
+      "tag": "c:dusts/gold"
     },
     "D": {
-      "tag": "forge:dusts/red_silvarium"
+      "tag": "c:dusts/red_silvarium"
     },
     "E": {
-      "tag": "forge:dusts/invar"
+      "tag": "c:dusts/invar"
     }
   },
   "result": {

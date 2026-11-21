@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "neogmematerials1211:item/advanced_fire_starter_assembly"
-  }
-}

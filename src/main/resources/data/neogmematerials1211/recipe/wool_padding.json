@@ -5,7 +5,7 @@
       "tag": "minecraft:wool"
     },
     {
-      "item": "minecraft:leather"
+      "tag": "c:leathers"
     }
   ],
   "result": {

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "neogmematerials1211:item/boots_padded_leather"
+    "layer0": "neogmematerials1211:item/padded_leather_helmet"
   }
 }

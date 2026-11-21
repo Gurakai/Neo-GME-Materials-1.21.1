@@ -7,7 +7,7 @@
   ],
   "key": {
     "A": {
-      "tag": "minecraft:music_discs"
+      "tag": "c:music_discs"
     },
     "B": {
       "item": "neogmematerials1211:guralloy_nugget"

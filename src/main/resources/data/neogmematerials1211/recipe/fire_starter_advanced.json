@@ -16,10 +16,10 @@
       "tag": "c:string"
     },
     "D": {
-      "item": "neogmematerials1211:advanced_fire_starter_assembly"
+      "item": "neogmematerials1211:fire_starter_advanced_subassembly"
     },
     "E": {
-      "item": "minecraft:blue_concrete"
+      "item": "neogmematerials1211:invar_nugget"
     }
   },
 
