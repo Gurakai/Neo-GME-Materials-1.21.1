@@ -4,7 +4,7 @@
   "cookingtime": 100,
   "experience": 0.2,
   "ingredient": {
-    "item": "neogmematerials1211:raw_nickel"
+    "item": "neogmematerials1211:nickel_raw"
   },
   "result": {
     "id": "neogmematerials1211:nickel_ingot"

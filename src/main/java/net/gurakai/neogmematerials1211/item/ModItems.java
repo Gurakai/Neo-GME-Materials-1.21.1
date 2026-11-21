@@ -185,35 +185,35 @@ public class ModItems {
 
     //Resonant Platinarium
 
-    public static final DeferredItem<Item> INGOT_RESONANT_PLATINARIUM = addToItems(ITEMS.register("ingot_resonant_platinarium",
+    public static final DeferredItem<Item> RESONANT_PLATINARIUM_INGOT = addToItems(ITEMS.register("resonant_platinarium_ingot",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.EPIC)
             )));
 
-    public static final DeferredItem<Item> NUGGET_RESONANT_PLATINARIUM = addToItems(ITEMS.register("nugget_resonant_platinarium",
+    public static final DeferredItem<Item> RESONANT_PLATINARIUM_NUGGET = addToItems(ITEMS.register("resonant_platinarium_nugget",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.EPIC)
             )));
 
-    public static final DeferredItem<Item> AMALGAM_RESONANT_PLATINARIUM = addToItems(ITEMS.register("amalgam_resonant_platinarium",
+    public static final DeferredItem<Item> RESONANT_PLATINARIUM_AMALGAM = addToItems(ITEMS.register("resonant_platinarium_amalgam",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.EPIC)
             )));
 
     //raw ore
 
-    public static final  DeferredItem<Item> RAW_NICKEL = addToItems(ITEMS.register("raw_nickel",
+    public static final  DeferredItem<Item> NICKEL_RAW = addToItems(ITEMS.register("nickel_raw",
             () -> new Item(new Item.Properties()
             )));
 
-    public static final  DeferredItem<Item> RAW_SILVER = addToItems(ITEMS.register("raw_silver",
+    public static final  DeferredItem<Item> SILVER_RAW = addToItems(ITEMS.register("silver_raw",
             () -> new Item(new Item.Properties()
             )));
 
 
     //blends - amalgams
 
-    public static final DeferredItem<Item> AMALGAM_CERNICIUM = addToItems(ITEMS.register("amalgam_cernicium",
+    public static final DeferredItem<Item> CERNICIUM_AMALGAM = addToItems(ITEMS.register("cernicium_amalgam",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.UNCOMMON)
             )));
@@ -223,7 +223,7 @@ public class ModItems {
                     .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> AMALGAM_GLOWVARIUM = addToItems(ITEMS.register("amalgam_glowvarium",
+    public static final DeferredItem<Item> GLOWVARIUM_AMALGAM = addToItems(ITEMS.register("glowvarium_amalgam",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));

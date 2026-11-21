@@ -32,7 +32,7 @@
             },
             {
               "type": "minecraft:item",
-              "name": "neogmematerials1211:raw_nickel",
+              "name": "neogmematerials1211:nickel_raw",
               "functions": [
                 {
                   "function": "minecraft:apply_bonus",

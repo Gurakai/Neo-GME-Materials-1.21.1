@@ -13,13 +13,13 @@
       "tag": "forge:dusts/platinum"
     },
     "C": {
-      "item": "neogmematerials1211:amalgam_glowvarium"
+      "item": "neogmematerials1211:glowvarium_amalgam"
     },
     "D": {
       "tag": "forge:ender_pearls"
     }
   },
   "result": {
-    "id": "neogmematerials1211:amalgam_resonant_platinarium"
+    "id": "neogmematerials1211:resonant_platinarium_amalgam"
   }
 }

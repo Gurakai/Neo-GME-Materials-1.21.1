@@ -4,7 +4,7 @@
   "cookingtime": 1600,
   "experience": 0.2,
   "ingredient": {
-    "item": "neogmematerials1211:amalgam_cernicium"
+    "item": "neogmematerials1211:cernicium_amalgam"
   },
   "result": {
     "id": "neogmematerials1211:platinum_hydrodisulfide"

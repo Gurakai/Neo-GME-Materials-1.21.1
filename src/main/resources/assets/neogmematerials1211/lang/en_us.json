@@ -5,7 +5,7 @@
   "block.neogmematerials1211.bismuth_ore": "Block of Bismuth Ore",
   "block.neogmematerials1211.bismuth_deepslate_ore": "Block of Deepslate Bismuth Ore",
 
-  "item.neogmematerials1211.amalgam_cernicium": "Amalgam of Cernicium",
+  "item.neogmematerials1211.cernicium_amalgam": "Amalgam of Cernicium",
 
   "item.neogmematerials1211.guralloy_apple": "Guralloy Apple",
 
@@ -23,7 +23,7 @@
   "item.neogmematerials1211.red_silvarium_ingot": "Red Silvarium Ingot",
   "item.neogmematerials1211.platinum_ingot": "Platinum Ingot",
   "item.neogmematerials1211.luminium_ingot": "Shining Luminium Ingot",
-  "item.neogmematerials1211.ingot_resonant_platinarium": "Resonant Platinarium Ingot",
+  "item.neogmematerials1211.resonant_platinarium_ingot": "Resonant Platinarium Ingot",
 
   "item.neogmematerials1211.guralloy_nugget": "Guralloy Nugget",
   "item.neogmematerials1211.nickel_nugget": "Nickel Nugget",
@@ -31,10 +31,10 @@
   "item.neogmematerials1211.red_silvarium_nugget": "Red Silvarium Nugget",
   "item.neogmematerials1211.platinum_nugget": "Platinum Nugget",
   "item.neogmematerials1211.luminium_nugget": "Shining Luminium Nugget",
-  "item.neogmematerials1211.nugget_resonant_platinarium": "Resonant Platinarium Nugget",
+  "item.neogmematerials1211.resonant_platinarium_nugget": "Resonant Platinarium Nugget",
 
-  "item.neogmematerials1211.raw_nickel": "Raw Nickel",
-  "item.neogmematerials1211.raw_silver": "Raw Silver",
+  "item.neogmematerials1211.nickel_raw": "Raw Nickel",
+  "item.neogmematerials1211.silver_raw": "Raw Silver",
 
   "item.neogmematerials1211.nickel_pulverized": "Pulverized Nickel",
   "item.neogmematerials1211.silver_pulverized": "Pulverized Silver",
@@ -43,8 +43,8 @@
   "item.neogmematerials1211.platinum_dust": "Platinum Dust",
   "item.neogmematerials1211.platinum_hydrodisulfide": "Amalgam of Platinum Hydro-DiSulfide",
   "item.neogmematerials1211.luminium_amalgam": "Amalgam of Shining Luminium",
-  "item.neogmematerials1211.amalgam_resonant_platinarium": "Amalgam of Resonant Platinarium",
-  "item.neogmematerials1211.amalgam_glowvarium": "Amalgam of Glowvarium",
+  "item.neogmematerials1211.resonant_platinarium_amalgam": "Amalgam of Resonant Platinarium",
+  "item.neogmematerials1211.glowvarium_amalgam": "Amalgam of Glowvarium",
 
   "block.neogmematerials1211.guralloy_ingot_block": "Block of Guralloy",
   "block.neogmematerials1211.nickel_ingot_block": "Block of Nickel",

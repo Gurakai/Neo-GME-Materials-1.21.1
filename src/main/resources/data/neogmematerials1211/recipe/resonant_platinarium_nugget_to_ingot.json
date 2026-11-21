@@ -7,10 +7,10 @@
   ],
   "key": {
     "W": {
-      "item": "neogmematerials1211:nugget_resonant_platinarium"
+      "item": "neogmematerials1211:resonant_platinarium_nugget"
     }
   },
   "result": {
-    "id": "neogmematerials1211:ingot_resonant_platinarium"
+    "id": "neogmematerials1211:resonant_platinarium_ingot"
   }
 }

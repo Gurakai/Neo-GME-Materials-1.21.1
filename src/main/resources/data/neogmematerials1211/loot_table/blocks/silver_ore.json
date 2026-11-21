@@ -32,7 +32,7 @@
             },
             {
               "type": "minecraft:item",
-              "name": "neogmematerials1211:raw_silver",
+              "name": "neogmematerials1211:silver_raw",
               "functions": [
                 {
                   "function": "minecraft:apply_bonus",
