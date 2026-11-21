@@ -149,17 +149,17 @@ public class ModItems {
 
     //Platinum
 
-    public static final DeferredItem<Item> INGOT_PLATINUM = addToItems(ITEMS.register("ingot_platinum",
+    public static final DeferredItem<Item> PLATINUM_INGOT = addToItems(ITEMS.register("platinum_ingot",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> NUGGET_PLATINUM = addToItems(ITEMS.register("nugget_platinum",
+    public static final DeferredItem<Item> PLATINUM_NUGGET = addToItems(ITEMS.register("platinum_nugget",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));
 
-    public static final DeferredItem<Item> DUST_PLATINUM = addToItems(ITEMS.register("dust_platinum",
+    public static final DeferredItem<Item> PLATINUM_DUST = addToItems(ITEMS.register("platinum_dust",
             () -> new Item(new Item.Properties()
                     .rarity(Rarity.RARE)
             )));

@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "neogmematerials1211:ingot_platinum"
+      "item": "neogmematerials1211:ingot_block_platinum"
     }
   ],
   "result": {
-    "id": "neogmematerials1211:nugget_platinum",
+    "id": "neogmematerials1211:platinum_ingot",
     "count": 9
   }
 }

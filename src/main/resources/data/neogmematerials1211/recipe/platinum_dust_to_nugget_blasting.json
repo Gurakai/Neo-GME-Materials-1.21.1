@@ -4,9 +4,9 @@
   "cookingtime": 200,
   "experience": 0.4,
   "ingredient": {
-    "item": "neogmematerials1211:dust_platinum"
+    "item": "neogmematerials1211:platinum_dust"
   },
   "result": {
-    "id": "neogmematerials1211:nugget_platinum"
+    "id": "neogmematerials1211:platinum_nugget"
   }
 }
